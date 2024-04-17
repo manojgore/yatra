@@ -10,15 +10,15 @@ function Banner() {
                             <h2 className="wow fadeInUp">Let's Find Your Perfect Car</h2>
                             <div className="banner-v8-form wow fadeInUp" data-wow-delay="200ms">
                                 <ul className="form-tabs-list">
-                                    <li className="current" data-tab="tab-1">New</li>
-                                    <li data-tab="tab-2">Used</li>
+                                    <li className="current" data-tab="tab-1">Daily Rental</li>
+                                    <li data-tab="tab-2">Montly Subscription</li>
                                 </ul>
                                 <div className="form-tab-content">
                                     <div className="form-tab-pane current" id="tab-1">
                                         <form>
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
-                                                    <label>Any Makes</label>
+                                                    <label>Location</label>
                                                     <div className="select">
                                                         <span>Any Makes</span>
                                                         <i className="fa fa-angle-down"></i>
@@ -32,7 +32,7 @@ function Banner() {
                                             </div>
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
-                                                    <label>Any Models</label>
+                                                    <label>Pick-Up Date</label>
                                                     <div className="select">
                                                         <span>Any Models</span>
                                                         <i className="fa fa-angle-down"></i>
@@ -46,7 +46,7 @@ function Banner() {
                                             </div>
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
-                                                    <label>Any Price</label>
+                                                    <label>Return Date</label>
                                                     <div className="select">
                                                         <span>Any Price</span>
                                                         <i className="fa fa-angle-down"></i>

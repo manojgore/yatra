@@ -2026,7 +2026,7 @@ Main Header
 }
 
 .header-style-v1 .header-inner .c-box .logo-inner .logo {
-  margin-right: 62px;
+  margin-right: 42px;
   /* Medium Large devices */
 }
 
@@ -2037,7 +2037,7 @@ Main Header
 }
 
 .header-style-v1 .header-inner .c-box .logo-inner .logo img {
-  max-width: 110px;
+  max-width: 150px;
 }
 
 .header-style-v1 .header-inner .c-box .logo-inner .search-btn a {
@@ -27673,7 +27673,7 @@ Chat Widget
 .layout-search .search-box input {
   background: transparent;
   width: 400px;
-  height: 47px;
+  height: 60px;
   line-height: 47px;
   font-size: 15px;
   font-weight: 500;

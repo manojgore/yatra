@@ -11,7 +11,7 @@ function Navbar() {
                             {/* <!-- Main box --> */}
                             <div className="c-box">
                                 <div className="logo-inner">
-                                    <div className="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
+                                    <div className="logo"><a href="index.html"><img src="images/logo.jpg" alt="" title="Boxcar" /></a></div>
                                     <div className="layout-search">
                                         <div className="search-box">
                                             <svg className="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -80,113 +80,21 @@ function Navbar() {
                                 <div className="nav-out-bar">
                                     <nav className="nav main-menu">
                                         <ul className="navigation" id="navbar">
-                                            <li className="current-dropdown current"><span>Home <i className="fa-solid fa-angle-down"></i></span>
-                                                <ul className="dropdown">
-                                                    <li><a href="index.html">Home 01</a></li>
-                                                    <li><a href="index-2.html">Home 02</a></li>
-                                                    <li><a href="index-3.html">Home 03</a></li>
-                                                    <li><a href="index-4.html">Home 04</a></li>
-                                                    <li><a href="index-5.html">Home 05</a></li>
-                                                    <li><a href="index-6.html">Home 06</a></li>
-                                                    <li><a href="index-7.html">Home 07</a></li>
-                                                    <li><a href="index-8.html">Home 08</a></li>
-                                                    <li><a href="index-9.html">Home 09</a></li>
-                                                    <li><a href="index-10.html">Home 10</a></li>
-                                                </ul>
-                                            </li>
-                                            <li className="current-dropdown"><span>Inventory <i className="fa-solid fa-angle-down"></i></span>
-                                                <div className="mega-menu">
-                                                    <div className="mega-column">
-                                                        <h3>Inventory List</h3>
-                                                        <ul>
-                                                            <li><a href="inventory-list-01.html" title="">Inventory List v1</a></li>
-                                                            <li><a href="inventory-list-02.html" title="">Inventory List v2</a></li>
-                                                            <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li>
-                                                            <li><a href="inventory-map-rows.html" title="">Map - Rows</a></li>
-                                                            <li><a href="inventory-sidebar-rows.html" title="">Sidebar - Rows</a></li>
-                                                            <li><a href="inventory-sidebar-cards.html" title="">Sidebar - Cards</a></li>
-
-                                                        </ul>
-                                                    </div>
-                                                    <div className="mega-column">
-                                                        <h3>Inventory Single</h3>
-                                                        <ul>
-                                                            <li><a href="inventory-list-01.html" title="">Inventory List v1</a></li>
-                                                            <li><a href="inventory-list-02.html" title="">Inventory List v2</a></li>
-                                                            <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li>
-                                                            <li><a href="inventory-map-rows.html" title="">Map - Rows</a></li>
-                                                            <li><a href="inventory-sidebar-rows.html" title="">Sidebar - Rows</a></li>
-                                                            <li><a href="inventory-sidebar-cards.html" title="">Sidebar - Cards</a></li>
-
-                                                        </ul>
-                                                    </div>
-                                                    <div className="mega-column">
-                                                        <h3>Popular Makes</h3>
-                                                        <ul>
-                                                            <li><a href="inventory-page-single.html" title="">Audi</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">BMW</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Ford</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Honda</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Land Rover</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Mercedes-Benz</a></li>
-                                                        </ul>
-                                                    </div>
-                                                    <div className="mega-column">
-                                                        <h3>Type</h3>
-                                                        <ul>
-                                                            <li><a href="inventory-page-single.html" title="">Sedan</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">SUVs</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Convertible</a></li>
-                                                            <li><a href="inventory-page-single.html" title="">Wagon</a></li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li className="current-dropdown"><span>Blog <i className="fa-solid fa-angle-down"></i></span>
-                                                <ul className="dropdown">
-                                                    <li><a href="blog-list-01.html">Blog List 01</a></li>
-                                                    <li><a href="blog-list-02.html">Blog List 02</a></li>
-                                                    <li><a href="blog-list-03.html">Blog List 03</a></li>
-                                                    <li><a href="blog-single.html">Blog Single</a></li>
-                                                </ul>
-                                            </li>
-                                            <li className="current-dropdown"><span>Shop <i className="fa-solid fa-angle-down"></i></span>
-                                                <ul className="dropdown">
-                                                    <li><a href="shop-list.html">Shop List</a></li>
-                                                    <li><a href="shop-single.html">Shop Single</a></li>
-                                                    <li><a href="cart.html">Cart</a></li>
-                                                    <li><a href="checkout.html">Checkout</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="/">Home</a>
+                                            </li>                                            
+                                            <li><a href='blog'><span>Blog </span></a>
+                                            </li> 
+                                            <li><a href="about.html">About</a>
+                                            </li>                                       
                                             <li className="current-dropdown"><span>Pages <i className="fa-solid fa-angle-down"></i></span>
-                                                <ul className="dropdown">
-                                                    <li className="nav-sub"><a>Dashboard <i className="fa fa-angle-right"></i></a>
-                                                        <ul className="dropdown deep subnav-menu">
-                                                            <li><a href="dashboard.html" title="">Dashboard</a></li>
-                                                            <li><a href="my-listings.html" title="">My Listings</a></li>
-                                                            <li><a href="add-listings.html" title="">Add Listings</a></li>
-                                                            <li><a href="favorite.html" title="">Favorites</a></li>
-                                                            <li><a href="saved.html" title="">Saved Search</a></li>
-                                                            <li><a href="messages.html" title="">Messages</a></li>
-                                                            <li><a href="profile.html" title="">Profile</a></li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="contact.html">Services</a></li>
-                                                    <li><a href="login.html">Login</a></li>
-                                                    <li><a href="faq.html">FAQs</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="terms.html">Terms</a></li>
-                                                    <li><a href="team-list.html">Team List</a></li>
-                                                    <li><a href="team-single.html">Team Single</a></li>
-                                                    <li><a href="dealer.html">Dealer List</a></li>
-                                                    <li><a href="dealer-single.html">Dealer Single</a></li>
-                                                    <li><a href="loan-calculator.html">Loan Calculator</a></li>
-                                                    <li><a href="compare.html">Compare</a></li>
-                                                    <li><a href="404.html">404</a></li>
-                                                    <li><a href="invoice.html">Invoice</a></li>
-                                                    <li><a href="ui-elements.html">UI Elements</a></li>
+                                                <ul className="dropdown">                                                    
+                                                    <li><a href="dashboard.html" title="">Dashboard</a></li>
+                                                    <li><a href="my-listings.html" title="">My Listings</a></li>
+                                                    <li><a href="add-listings.html" title="">Add Listings</a></li>
+                                                    <li><a href="favorite.html" title="">Favorites</a></li>
+                                                    <li><a href="saved.html" title="">Saved Search</a></li>
+                                                    <li><a href="messages.html" title="">Messages</a></li>
+                                                    <li><a href="profile.html" title="">Profile</a></li>                                                                                                            
                                                 </ul>
                                             </li>
                                             <li><a href="contact.html">Contact</a>
@@ -213,7 +121,7 @@ function Navbar() {
                                         </div>
                                         Sign in</a>
                                     <div className="btn">
-                                        <a href="#" className="header-btn-eight">Add Listing</a>
+                                        <a href="#" className="header-btn-eight">Add Booking</a>
                                     </div>
                                     <div className="mobile-navigation">
                                         <a href="#nav-mobile" title="">
