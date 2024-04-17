@@ -2004,7 +2004,7 @@ Main Header
 }
 
 .header-style-v1.home-8 .header-inner {
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
 @media (max-width: 1440px) {
@@ -6257,7 +6257,7 @@ Section Title
   color: #fff;
   font-size: 52px;
   font-weight: 500;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .boxcar-banner-section-v8 .banner-content-v8 .banner-v8-form {
