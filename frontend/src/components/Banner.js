@@ -34,13 +34,11 @@ function Banner() {
                                                 <div className="drop-menu">
                                                     <label>Pick-Up Date</label>
                                                     <div className="select">
-                                                        <span>Any Models</span>
+                                                        <span>Select Date</span>
                                                         <i className="fa fa-angle-down"></i>
                                                     </div>
                                                     <input type="hidden" name="gender" />
-                                                    <ul className="dropdown" style={{display: "none"}}>
-                                                        <li>A3</li>
-                                                        <li>Accord</li>
+                                                    <ul className="dropdown" style={{display: "none"}}>                                    
                                                     </ul>
                                                 </div>
                                             </div>
@@ -48,13 +46,11 @@ function Banner() {
                                                 <div className="drop-menu">
                                                     <label>Return Date</label>
                                                     <div className="select">
-                                                        <span>Any Price</span>
+                                                        <span>Select Date</span>
                                                         <i className="fa fa-angle-down"></i>
                                                     </div>
                                                     <input type="hidden" name="gender" />
-                                                    <ul className="dropdown" style={{display: "none"}}>
-                                                        <li>200$</li>
-                                                        <li>300$</li>
+                                                    <ul className="dropdown" style={{display: "none"}}>                                                       
                                                     </ul>
                                                 </div>
                                             </div>

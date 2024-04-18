@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <Banner />
+    <Banner /> 
     <Fleet />
     </>
   );
