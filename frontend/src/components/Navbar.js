@@ -147,7 +147,7 @@ function Navbar() {
                                 <div className="form-group">
                                     <input type="search" name="search-field" value="" placeholder="Search..." required="" />
                                     <button type="submit"><i className="fa fa-search"></i></button>
-                                </div>
+                                </div> 
                             </form>
                         </div>
                     </div>
