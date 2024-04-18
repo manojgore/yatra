@@ -40,7 +40,7 @@ function Banner() {
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>                                    
                                                     </ul>
-                                                </div>
+                                                </div> 
                                             </div>
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
