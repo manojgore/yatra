@@ -4,12 +4,14 @@ import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import Fleet from './components/Fleet';
 import Footer from './components/Footer';
+import BrowseByType from './components/BrowseByType';
 
 function App() {
   return (
     <>
     <Navbar /> 
-    <Banner /> 
+    <Banner />
+    <BrowseByType /> 
     <Fleet />
     <Footer />
     </>

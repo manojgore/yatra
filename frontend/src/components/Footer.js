@@ -112,11 +112,11 @@ function Footer() {
                             {/* <!-- footer column --> */}
                             <div class="footer-column col-lg-3 col-md-6 col-sm-12">
                                 <div class="footer-widget social-widget wow fadeInUp" data-wow-delay="400ms">
-                                    <h4 class="widget-title">Vehicles Type</h4>
+                                    <h4 class="widget-title">Office Time</h4>
                                     <div class="widget-content">
                                         <div class="text">
-                                            Monday - Friday: 09:00AM - 09:00
-                                            PMSaturday: 09:00AM - 07:00PM
+                                            Monday - Friday: 09:00AM - 09:00PM <br />
+                                            Saturday: 09:00AM - 07:00PM <br />
                                             Sunday: Closed
                                         </div>
                                         <div class="social-icons">
@@ -138,7 +138,7 @@ function Footer() {
                 <div class="footer-bottom">
                     <div class="boxcar-container">
                         <div class="inner-container">
-                            <div class="copyright-text wow fadeInUp">© <a href="/">2024 YatraCars.com.</a> All rights reserved.</div>
+                            <div class="copyright-text links-widget wow fadeInUp">© <a href="/">2024 YatraCars.com.</a> All rights reserved.</div>
 
                             <ul class="footer-nav wow fadeInUp" data-wow-delay="100ms">
                                 <li><a href="#">Terms & Conditions</a></li>

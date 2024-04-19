@@ -109,7 +109,7 @@ function BrowseByType() {
                             <div class="inner-box wow fadeInUp" data-wow-delay="500ms">
                                 <div class="image-box">
                                     <svg width="35" height="34" viewBox="0 0 35 34" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <mask id="mask0_130_4423" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="34">
+                                        <mask id="mask0_130_4423" style={{maskType:"luminance"}} maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="34">
                                             <path d="M0.5 3.8147e-06H34.5V34H0.5V3.8147e-06Z" fill="white" />
                                         </mask>
                                         <g mask="url(#mask0_130_4423)">
@@ -135,7 +135,7 @@ function BrowseByType() {
                             <div class="inner-box wow fadeInUp" data-wow-delay="300ms">
                                 <div class="image-box">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
-                                        <mask id="mask0_130_4528" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="34">
+                                        <mask id="mask0_130_4528" style={{maskType:"luminance"}} maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="34">
                                             <path d="M0 3.8147e-06H34V34H0V3.8147e-06Z" fill="white" />
                                         </mask>
                                         <g mask="url(#mask0_130_4528)">
