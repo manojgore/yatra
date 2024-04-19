@@ -27704,7 +27704,7 @@ Chat Widget
   background-color: var(--theme-color-light);
 }
 
-.layout-search.active .search-box svg path {
+.layout-search.active .search-box svg path { 
   fill: var(--theme-color-dark);
 }
 
