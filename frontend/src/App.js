@@ -7,7 +7,7 @@ import Fleet from './components/Fleet';
 function App() {
   return (
     <>
-    <Navbar />
+    <Navbar /> 
     <Banner /> 
     <Fleet />
     </>
