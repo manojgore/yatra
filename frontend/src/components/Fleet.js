@@ -27,7 +27,7 @@ function Fleet() {
                     <div class="tab-content wow fadeInUp" data-wow-delay="200ms" id="myTabContent">
                         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                             <div class="shop-cars">
-                                <ul class="cars-list">
+                                <ul class="cars-list"> 
                                     <li><a href="#">Used Abarth Cars</a></li>
                                     <li><a href="#">Used Alfa Romeo Cars</a></li>
                                     <li><a href="#">Used Audi Cars</a></li>
