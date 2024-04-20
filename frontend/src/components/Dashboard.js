@@ -3,7 +3,7 @@ import React from 'react'
 function Dashboard() {
     return (
         <>
-            <body class="body">
+            <div class="body">
 
                 <div class="boxcar-wrapper v2">
 
@@ -396,7 +396,7 @@ function Dashboard() {
                 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
 
-            </body>
+            </div>
         </>
     )
 }
