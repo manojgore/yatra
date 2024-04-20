@@ -7,14 +7,14 @@ function Dashboard() {
 
                 <div class="boxcar-wrapper v2">
 
-                    <!-- Main Header-->
+                    {/* <!-- Main Header--> */}
                     <header class="boxcar-header header-style-ten">
                         <div class="header-inner">
                             <div class="inner-container">
-                                <!-- Main box -->
+                                {/* <!-- Main box --> */}
                                 <div class="c-box">
                                     <div class="logo-inner">
-                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar"></a></div>
+                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
                                         <div class="btn-box">
 
                                             <div class="layout-search style1">
@@ -22,14 +22,14 @@ function Dashboard() {
                                                     <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M7.29301 1.2876C3.9872 1.2876 1.29431 3.98048 1.29431 7.28631C1.29431 10.5921 3.9872 13.2902 7.29301 13.2902C8.70502 13.2902 10.0036 12.7954 11.03 11.9738L13.5287 14.4712C13.6548 14.5921 13.8232 14.6588 13.9979 14.657C14.1725 14.6552 14.3395 14.5851 14.4631 14.4617C14.5867 14.3382 14.6571 14.1713 14.6591 13.9967C14.6611 13.822 14.5947 13.6535 14.474 13.5272L11.9753 11.0285C12.7976 10.0006 13.293 8.69995 13.293 7.28631C13.293 3.98048 10.5988 1.2876 7.29301 1.2876ZM7.29301 2.62095C9.87824 2.62095 11.9584 4.70108 11.9584 7.28631C11.9584 9.87153 9.87824 11.9569 7.29301 11.9569C4.70778 11.9569 2.62764 9.87153 2.62764 7.28631C2.62764 4.70108 4.70778 2.62095 7.29301 2.62095Z" fill="white" />
                                                     </svg>
-                                                    <input type="search" placeholder="Search Cars eg. Audi Q7" class="show-search" name="name" tabindex="2" value="" aria-required="true" required="">
+                                                    <input type="search" placeholder="Search Cars eg. Audi Q7" class="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
                                                 </div>
                                                 <div class="box-content-search" id="box-content-search">
                                                     <ul class="box-car-search">
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
-                                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                                <img src="images/resource/car-search.jpg" alt="img" />
                                                             </div>
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
@@ -38,7 +38,7 @@ function Dashboard() {
                                                         </a></li>
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
-                                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                                <img src="images/resource/car-search.jpg" alt="img" />
                                                             </div>
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
@@ -47,7 +47,7 @@ function Dashboard() {
                                                         </a></li>
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
-                                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                                <img src="images/resource/car-search.jpg" alt="img" />
                                                             </div>
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
@@ -56,7 +56,7 @@ function Dashboard() {
                                                         </a></li>
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
-                                                                <img src="images/resource/car-search.jpg" alt="img">
+                                                                <img src="images/resource/car-search.jpg" alt="img" />
                                                             </div>
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
@@ -82,7 +82,7 @@ function Dashboard() {
                                         </div>
                                     </div>
 
-                                    <!--Nav Box-->
+                                    {/* <!--Nav Box--> */}
                                     <div class="nav-out-bar">
                                         <nav class="nav main-menu">
                                             <ul class="navigation" id="navbar">
@@ -197,11 +197,11 @@ function Dashboard() {
                                                 </li>
                                             </ul>
                                         </nav>
-                                        <!-- Main Menu End-->
+                                        {/* <!-- Main Menu End--> */}
                                     </div>
 
                                     <div class="right-box">
-                                        <a href="#" class="haeder-img"><img src="images/resource/header-img.png"></a>
+                                        <a href="#" class="haeder-img"><img src="images/resource/header-img.png" /></a>
                                         <div class="mobile-navigation">
                                             <a href="#nav-mobile" title="">
                                                 <svg width="22" height="11" viewBox="0 0 22 11" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -212,11 +212,11 @@ function Dashboard() {
                                         </div>
                                     </div>
                                 </div>
-                                <!-- Mobile Menu  -->
+                                {/* <!-- Mobile Menu  --> */}
                             </div>
                         </div>
 
-                        <!-- Header Search -->
+                        {/* <!-- Header Search --> */}
                         <div class="search-popup">
                             <span class="search-back-drop"></span>
                             <button class="close-search"><span class="fa fa-times"></span></button>
@@ -224,31 +224,31 @@ function Dashboard() {
                             <div class="search-inner">
                                 <form method="post" action="https://creativelayers.net/themes/boxcar-html/index.html">
                                     <div class="form-group">
-                                        <input type="search" name="search-field" value="" placeholder="Search..." required="">
+                                        <input type="search" name="search-field" value="" placeholder="Search..." required="" />
                                             <button type="submit"><i class="fa fa-search"></i></button>
                                     </div>
                                 </form>
                             </div>
                         </div>
-                        <!-- End Header Search -->
+                        {/* <!-- End Header Search --> */}
 
                         <div id="nav-mobile"></div>
                     </header>
-                    <!-- End header-section -->
+                    {/* <!-- End header-section --> */}
 
-                    <!-- dashboard-widget -->
+                    {/* <!-- dashboard-widget --> */}
                     <section class="dashboard-widget">
                         <div class="right-box">
                             <div class="side-bar">
                                 <ul class="nav-list">
-                                    <li><a href="dashboard.html"><img src="images/icons/dash1.svg" alt="">Dashboard</a></li>
-                                    <li><a href="my-listings.html"><img src="images/icons/dash2.svg" alt="">My Listings</a></li>
-                                    <li><a href="add-listings.html"><img src="images/icons/dash3.svg" alt="">Add Listings</a></li>
-                                    <li><a href="favorite.html"><img src="images/icons/dash4.svg" alt="">My Favorites</a></li>
-                                    <li><a href="saved.html"><img src="images/icons/dash5.svg" alt="">Saved Search</a></li>
-                                    <li><a href="messages.html"><img src="images/icons/dash6.svg" alt="">Messages</a></li>
-                                    <li><a href="profile.html"><img src="images/icons/dash7.svg" alt="">My Profile</a></li>
-                                    <li><a href="#"><img src="images/icons/dash8.svg" alt="">Logout</a></li>
+                                    <li><a href="dashboard.html"><img src="images/icons/dash1.svg" alt="" />Dashboard</a></li>
+                                    <li><a href="my-listings.html"><img src="images/icons/dash2.svg" alt="" />My Listings</a></li>
+                                    <li><a href="add-listings.html"><img src="images/icons/dash3.svg" alt="" />Add Listings</a></li>
+                                    <li><a href="favorite.html"><img src="images/icons/dash4.svg" alt="" />My Favorites</a></li>
+                                    <li><a href="saved.html"><img src="images/icons/dash5.svg" alt="" />Saved Search</a></li>
+                                    <li><a href="messages.html"><img src="images/icons/dash6.svg" alt="" />Messages</a></li>
+                                    <li><a href="profile.html"><img src="images/icons/dash7.svg" alt="" />My Profile</a></li>
+                                    <li><a href="#"><img src="images/icons/dash8.svg" alt="" />Logout</a></li>
                                 </ul>
                             </div>
                             <div class="content-column">
@@ -309,8 +309,8 @@ function Dashboard() {
                                                                         <span>Audi A3</span>
                                                                         <i class="fa fa-angle-down"></i>
                                                                     </div>
-                                                                    <input type="hidden" name="gender">
-                                                                        <ul class="dropdown" style="display: none;">
+                                                                    <input type="hidden" name="gender" />
+                                                                        <ul class="dropdown" style= {{display: "none"}}>
                                                                             <li>Audi A3</li>
                                                                             <li>Audi A3</li>
                                                                         </ul>
@@ -323,8 +323,8 @@ function Dashboard() {
                                                                         <span>15 days</span>
                                                                         <i class="fa fa-angle-down"></i>
                                                                     </div>
-                                                                    <input type="hidden" name="gender">
-                                                                        <ul class="dropdown" style="display: none;">
+                                                                    <input type="hidden" name="gender" />
+                                                                        <ul class="dropdown" style={{display: "none"}}>
                                                                             <li>15 days</li>
                                                                             <li>15 days</li>
                                                                         </ul>
@@ -373,10 +373,10 @@ function Dashboard() {
                             </div>
                         </div>
                     </section>
-                    <!-- End dashboard-widget -->
+                    {/* <!-- End dashboard-widget --> */}
 
                     <footer class="boxcar-footer footer-style-one v2">
-                        <!--  Footer Bottom -->
+                        {/* <!--  Footer Bottom --> */}
                         <div class="footer-bottom">
                             <div class="inner-container">
                                 <div class="copyright-text wow fadeInUp">2024 Boxcars.com. All rights reserved.</div>
@@ -387,12 +387,12 @@ function Dashboard() {
                             </div>
                         </div>
                     </footer>
-                    <!-- End boxcar-footer -->
+                    {/* <!-- End boxcar-footer --> */}
 
 
-                </div><!-- End Page Wrapper -->
+                </div>{/* <!-- End Page Wrapper --> */}
 
-                <!-- Scroll To Top -->
+                {/* <!-- Scroll To Top --> */}
                 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 
 
