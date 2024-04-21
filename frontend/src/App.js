@@ -9,7 +9,7 @@ import BrowseByType from './components/BrowseByType';
 function App() {
   return (
     <>
-    <Navbar /> 
+    <Navbar />  
     <Banner />
     <BrowseByType /> 
     <Fleet />
