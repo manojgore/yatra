@@ -88,7 +88,7 @@ function Banner() {
                                                         <li>Accord</li>
                                                     </ul>
                                                 </div>
-                                            </div>
+                                            </div> 
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
                                                     <label>Any Price</label>
