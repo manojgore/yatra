@@ -140,7 +140,7 @@ function Navbar() {
                     {/* <!-- Header Search --> */}
                     <div className="search-popup">
                         <span className="search-back-drop"></span>
-                        <button className="close-search"><span className="fa fa-times"></span></button>
+                        <button className="close-search"><span className="fa fa-times"></span></button> 
 
                         <div className="search-inner">
                             <form method="post" action="https://creativelayers.net/themes/boxcar-html/index.html">
