@@ -1,6 +1,7 @@
 import React from 'react'
+import { Link } from "react-router-dom"; 
 
-function Navbar() {
+const Navbar = () => {
     return (
         <>
             <div>
@@ -81,23 +82,25 @@ function Navbar() {
                                     <nav className="nav main-menu">
                                         <ul className="navigation" id="navbar">
                                             <li><a href="/">Home</a>
-                                            </li>                                            
+                                            </li>
                                             <li><a href='blog'><span>Blog </span></a>
-                                            </li> 
+                                            </li>
                                             <li><a href="about.html">About</a>
-                                            </li>                                       
+                                            </li>
                                             <li className="current-dropdown"><span>Pages <i className="fa-solid fa-angle-down"></i></span>
-                                                <ul className="dropdown">                                                    
-                                                    <li><a href="/dashboard.js" title="">Dashboard</a></li>
+                                                <ul className="dropdown">
+                                                    <li><Link to="/admin/Dashboard" className="nav-link">
+                                                        Dashboard
+                                                    </Link></li>
                                                     <li><a href="my-listings.html" title="">My Listings</a></li>
                                                     <li><a href="add-listings.html" title="">Add Listings</a></li>
                                                     <li><a href="favorite.html" title="">Favorites</a></li>
                                                     <li><a href="saved.html" title="">Saved Search</a></li>
                                                     <li><a href="messages.html" title="">Messages</a></li>
-                                                    <li><a href="profile.html" title="">Profile</a></li>                                                                                                            
+                                                    <li><a href="profile.html" title="">Profile</a></li>
                                                 </ul>
                                             </li>
-                                            <li><a href="contact.html">Contact</a> 
+                                            <li><a href="contact.html">Contact</a>
                                             </li>
                                         </ul>
                                     </nav>
@@ -140,23 +143,23 @@ function Navbar() {
                     {/* <!-- Header Search --> */}
                     <div className="search-popup">
                         <span className="search-back-drop"></span>
-                        <button className="close-search"><span className="fa fa-times"></span></button> 
+                        <button className="close-search"><span className="fa fa-times"></span></button>
 
                         <div className="search-inner">
                             <form method="post" action="https://creativelayers.net/themes/boxcar-html/index.html">
                                 <div className="form-group">
                                     <input type="search" name="search-field" value="" placeholder="Search..." required="" />
                                     <button type="submit"><i className="fa fa-search"></i></button>
-                                </div> 
+                                </div>
                             </form>
                         </div>
                     </div>
                     {/* <!-- End Header Search --> */}
 
-                    <div id="nav-mobile"></div> 
+                    <div id="nav-mobile"></div>
                 </header>
                 {/* <!-- End header-section --> */}
-                
+
             </div>
         </>
     )
