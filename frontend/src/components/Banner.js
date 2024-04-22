@@ -87,7 +87,7 @@ function Banner() {
                                                         <li>A3</li>
                                                         <li>Accord</li>
                                                     </ul>
-                                                </div>
+                                                </div> 
                                             </div> 
                                             <div className="form_boxes">
                                                 <div className="drop-menu">
