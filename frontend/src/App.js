@@ -8,12 +8,12 @@ import Banner from './components/Banner';
 import Fleet from './components/Fleet';
 import Footer from './components/Footer';
 import BrowseByType from './components/BrowseByType';
-import Dashboard from './components/Admin/Dashboard';
+// import Dashboard from './components/Admin/Dashboard';
 
 function App() {
   return (
     <>
-    <AppContent />
+    {/* <AppContent /> */}
     <Navbar />  
     <Banner />
     <BrowseByType /> 
@@ -24,22 +24,22 @@ function App() {
 }
 
 
-function AppContent() {
+// function AppContent() {
 
-  return (
-    <>
-      <Router>
-        {/* Define routes for admin module */}
-        <Route path="/admin/dashboard" element={<Dashboard />} />
+//   return (
+//     <>
+//       <Router>
+//         {/* Define routes for admin module */}
+//         <Route path="/admin/dashboard" element={<Dashboard />} />
 
-        {/* Add routes for other modules if needed */}
-        {/* 
-        <Route path="/user/*" element={<UserRoutes />} />
-        <Route path="/user/home" element={<Home />} /> */}
-      </Router>
-    </>
-  );
-}
+//         {/* Add routes for other modules if needed */}
+//         {/* 
+//         <Route path="/user/*" element={<UserRoutes />} />
+//         <Route path="/user/home" element={<Home />} /> */}
+//       </Router>
+//     </>
+//   );
+// }
 
 
 export default App;
