@@ -93,7 +93,7 @@ const Navbar = () => {
                                                     <li><a href="add-listings.html" title="">Add Listings</a></li>
                                                     <li><a href="favorite.html" title="">Favorites</a></li>
                                                     <li><a href="saved.html" title="">Saved Search</a></li>
-                                                    <li><a href="messages.html" title="">Messages</a></li>
+                                                    <li><a href="messages.html" title="">Messages</a></li> 
                                                     <li><a href="profile.html" title="">Profile</a></li>                                                                                                            
                                                 </ul>
                                             </li>
