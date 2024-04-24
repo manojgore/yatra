@@ -110,7 +110,7 @@ function Banner() {
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> 
                     </div>
                 </section>
                 {/* <!-- BANNER SECTION END --> */}
