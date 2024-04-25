@@ -120,7 +120,7 @@ function Footer() {
                                             Sunday: Closed
                                         </div>
                                         <div class="social-icons">
-                                            <h6 class="title">Connect With Us</h6>
+                                            <h6 class="title">Connect With Us</h6> 
                                             <ul>
                                                 <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
