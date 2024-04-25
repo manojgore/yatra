@@ -112,7 +112,7 @@ function BrowseByType() {
                                         <mask id="mask0_130_4423" style={{maskType:"luminance"}} maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="34">
                                             <path d="M0.5 3.8147e-06H34.5V34H0.5V3.8147e-06Z" fill="white" />
                                         </mask>
-                                        <g mask="url(#mask0_130_4423)">
+                                        <g mask="url(#mask0_130_4423)"> 
                                             <path d="M6.875 21.7812H5.18031C3.3143 21.7812 1.77168 20.3934 1.52996 18.5938C1.50738 18.4311 1.49609 18.2657 1.49609 18.097V15.4062H10.6442H14.4453H22.8125L33.5039 16.4688V18.097C33.5039 20.1324 31.8517 21.7812 29.8197 21.7812H28.125" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M23.875 21.7812H15.7914H11.125" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M11.125 21.7813C11.125 22.9548 10.1736 23.9062 9 23.9062C7.8264 23.9062 6.875 22.9548 6.875 21.7813C6.875 20.6077 7.8264 19.6563 9 19.6563C10.1736 19.6563 11.125 20.6077 11.125 21.7813Z" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
