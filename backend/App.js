@@ -3,7 +3,7 @@
 // Import necessary modules
 const express = require('express');
 const bodyParser = require('body-parser');
-const mysql = require('mysql');
+const mysql = require('mysql'); 
 const nodemailer = require('nodemailer');
 
 // Create an Express app
