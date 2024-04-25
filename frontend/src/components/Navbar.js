@@ -84,7 +84,7 @@ const Navbar = () => {
                                             </li>                                            
                                             <li><a href='blog'><span>Blog </span></a>
                                             </li> 
-                                            <li><a href="about.html">About</a>
+                                            <li><a href="about.html">About</a> 
                                             </li>                                       
                                             <li className="current-dropdown"><span>Pages <i className="fa-solid fa-angle-down"></i></span>
                                                 <ul className="dropdown">                                                    
