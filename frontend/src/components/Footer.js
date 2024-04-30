@@ -146,7 +146,7 @@ function Footer() {
                             </ul>
                         </div>
                     </div>
-                </div>
+                </div> 
             </footer>
             {/* <!-- End boxcar-footer --> */}
         </>
