@@ -12,7 +12,7 @@ import BrowseByType from './components/BrowseByType';
 
 function App() {
   return ( 
-    <>
+    <> 
     {/* <AppContent /> */}
     <Navbar />  
     <Banner /> 
