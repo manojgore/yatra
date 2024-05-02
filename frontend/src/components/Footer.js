@@ -142,7 +142,7 @@ function Footer() {
 
                             <ul class="footer-nav wow fadeInUp" data-wow-delay="100ms"> 
                                 <li><a href="#">Terms & Conditions</a></li>
-                                <li><a href="#">Privacy Notice</a></li>
+                                <li><a href="#">Privacy Notice</a></li> 
                             </ul>
                         </div>
                     </div>
