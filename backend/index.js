@@ -12,7 +12,7 @@ app.get("/api",(req,res)=>{
         { 
             "employees": [
                 { "name": "Alice Smith", "email": "alice.smith@example.com" },
-                { "name": "Bob Johnson", "email": "bob.johnson@example.com" },
+                { "name": "Bob Johnson", "email": "bob.johnson@example.com" }, 
                 { "name": "Emily Brown", "email": "emily.brown@example.com" }
             ]
         }
