@@ -100,7 +100,7 @@ function Banner() {
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>200$</li>
                                                         <li>300$</li> 
-                                                    </ul>
+                                                    </ul> 
                                                 </div>
                                             </div>
                                             <div className="form-submit"> 
