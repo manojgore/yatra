@@ -63,7 +63,7 @@ function Dashboard() {
                                                                 <span class="price">$399</span> 
                                                             </div>
                                                         </a></li>
-                                                    </ul>
+                                                    </ul> 
                                                     <a href="inventory-page-single.html" class="btn-view-search"> 
                                                         View Details
                                                         <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
