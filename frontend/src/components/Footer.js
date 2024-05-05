@@ -136,7 +136,7 @@ function Footer() {
                 </div>
                 {/* <!--  Footer Bottom --> */}
                 <div class="footer-bottom">
-                    <div class="boxcar-container">
+                    <div class="boxcar-container"> 
                         <div class="inner-container">
                             <div class="copyright-text links-widget wow fadeInUp">© <a href="/">2024 YatraCars.com.</a> All rights reserved.</div>
 
