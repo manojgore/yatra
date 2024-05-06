@@ -107,7 +107,7 @@ function Banner() {
                                                 <button type="submit" className="theme-btn"><i className="flaticon-search"></i>Search 9451 Cars</button>
                                             </div>
                                         </form>
-                                    </div>
+                                    </div> 
                                 </div> 
                             </div> 
                         </div> 
