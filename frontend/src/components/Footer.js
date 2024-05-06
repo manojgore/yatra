@@ -140,7 +140,7 @@ function Footer() {
                         <div class="inner-container">
                             <div class="copyright-text links-widget wow fadeInUp">© <a href="/">2024 YatraCars.com.</a> All rights reserved.</div>
 
-                            <ul class="footer-nav wow fadeInUp" data-wow-delay="100ms"> 
+                            <ul class="footer-nav wow fadeInUp" data-wow-delay="100ms">  
                                 <li><a href="#">Terms & Conditions</a></li>
                                 <li><a href="#">Privacy Notice</a></li> 
                             </ul>
