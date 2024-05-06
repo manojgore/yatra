@@ -49,7 +49,7 @@ const Navbar = () => {
                                                         <span className="price">$399</span>
                                                     </div>
                                                 </a></li>
-                                                <li><a href="inventory-page-single.html" className="car-search-item">
+                                                <li><a href="inventory-page-single.html" className="car-search-item"> 
                                                     <div className="box-img">
                                                         <img src="images/resource/car-search.jpg" alt="img" /> 
                                                     </div>
