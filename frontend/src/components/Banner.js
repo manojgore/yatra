@@ -99,7 +99,7 @@ function Banner() {
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>200$</li>
-                                                        <li>300$</li> 
+                                                        <li>300$</li>
                                                     </ul> 
                                                 </div>
                                             </div>
