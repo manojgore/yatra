@@ -105,7 +105,7 @@ function Footer() {
                                                     <li><a href="#">Wagon</a></li> 
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>
