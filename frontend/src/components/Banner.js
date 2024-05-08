@@ -94,7 +94,7 @@ function Banner() {
                                                     <label>Any Price</label>
                                                     <div className="select">
                                                         <span>Any Price</span> 
-                                                        <i className="fa fa-angle-down"></i>
+                                                        <i className="fa fa-angle-down"></i> 
                                                     </div>
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>
