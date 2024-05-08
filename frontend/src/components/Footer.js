@@ -93,7 +93,7 @@ function Footer() {
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="300ms">
                                             <h4 class="widget-title">Vehicles Type</h4>
-                                            <div class="widget-content">
+                                            <div class="widget-content"> 
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">Pickup</a></li>
                                                     <li><a href="#">Coup</a></li>
