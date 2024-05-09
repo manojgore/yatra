@@ -86,7 +86,7 @@ function Footer() {
                                                     <li><a href="#">Ferrari</a></li>
                                                     <li><a href="#">Jaguar</a></li>
                                                     <li><a href="#">Lamborghini</a></li>
-                                                </ul>
+                                                </ul> 
                                             </div>
                                         </div>
                                     </div>
