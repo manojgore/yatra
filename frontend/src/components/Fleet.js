@@ -138,7 +138,7 @@ function Fleet() {
                                     <li><a href="#">Used Infiniti Cars</a></li>
                                     <li><a href="#">Used Jaguar Cars</a></li> 
                                     <li><a href="#">Used Jeep Cars</a></li>
-                                </ul>
+                                </ul> 
                                 <ul class="cars-list">
                                     <li><a href="#">Used Kia Cars</a></li>
                                     <li><a href="#">Used Land Rover Cars</a></li>
