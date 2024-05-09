@@ -151,7 +151,7 @@ function BrowseByType() {
                                     </svg>
                                 </div>
                                 <div class="content-box">
-                                    <h6 class="title"><a href="#">Van</a></h6>
+                                    <h6 class="title"><a href="#">Van</a></h6> 
                                 </div>
                             </div>
                         </div>
