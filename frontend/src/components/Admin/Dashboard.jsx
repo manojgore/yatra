@@ -26,7 +26,7 @@ function Dashboard() {
                                                 </div>
                                                 <div class="box-content-search" id="box-content-search">
                                                     <ul class="box-car-search">
-                                                        <li><a href="inventory-page-single.html" class="car-search-item">
+                                                        <li><a href="inventory-page-single.html" class="car-search-item"> 
                                                             <div class="box-img">
                                                                 <img src="images/resource/car-search.jpg" alt="img" /> 
                                                             </div>
