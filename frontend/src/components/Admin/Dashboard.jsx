@@ -15,7 +15,7 @@ function Dashboard() {
                                 <div class="c-box">
                                     <div class="logo-inner">
                                         <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
-                                        <div class="btn-box">
+                                        <div class="btn-box"> 
                                             <div class="layout-search style1">
                                                 <div class="search-box">
                                                     <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
