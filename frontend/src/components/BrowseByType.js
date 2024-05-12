@@ -149,7 +149,7 @@ function BrowseByType() {
                                             <path d="M33.0037 18.6003H31.4033" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                         </g>
                                     </svg>
-                                </div>
+                                </div> 
                                 <div class="content-box">
                                     <h6 class="title"><a href="#">Van</a></h6> 
                                 </div>
