@@ -88,8 +88,8 @@ function Footer() {
                                                     <li><a href="#">Lamborghini</a></li>
                                                 </ul> 
                                             </div>
-                                        </div> 
-                                    </div>
+                                        </div>
+                                    </div> 
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="300ms">
                                             <h4 class="widget-title">Vehicles Type</h4>
