@@ -5,5 +5,5 @@ function Admin-routes() {
     <div>Admin-routes</div>
   )
 }
- 
-export default Admin-routes
+
+export default Admin-routes 
