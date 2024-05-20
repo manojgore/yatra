@@ -7,7 +7,7 @@ const Navbar = () => {
                 {/* <!-- Main Header--> */}
                 <header className="boxcar-header header-style-v1 home-8">
                     <div className="header-inner">
-                        <div className="boxcar-container">
+                        <div className="boxcar-container"> 
                             {/* <!-- Main box --> */}
                             <div className="c-box">
                                 <div className="logo-inner">
