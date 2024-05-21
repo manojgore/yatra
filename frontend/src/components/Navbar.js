@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
     return (
         <>
-            <div>
+            <div> 
                 {/* <!-- Main Header--> */}
                 <header className="boxcar-header header-style-v1 home-8">
                     <div className="header-inner">
