@@ -13,7 +13,7 @@ function Footer() {
                                 <div class="image-box">
                                     <figure class="image"><img src="images/resource/news1-1.png" alt="" /></figure>
                                 </div>
-                            </div>
+                            </div> 
                         </div> 
                         {/* <!-- content-column --> */}
                         <div class="form-column col-lg-8 col-md-12 col-sm-12">
