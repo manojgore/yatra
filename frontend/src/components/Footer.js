@@ -15,7 +15,7 @@ function Footer() {
                                 </div>
                             </div> 
                         </div> 
-                        {/* <!-- content-column --> */}
+                        {/* <!-- content-column --> */} 
                         <div class="form-column col-lg-8 col-md-12 col-sm-12">
                             <div class="inner-column">
                                 <div class="boxcar-title light">
