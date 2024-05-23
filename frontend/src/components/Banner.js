@@ -17,9 +17,9 @@ function Banner() {
                                     <div className="form-tab-pane current" id="tab-1">
                                         <form>
                                             <div className="form_boxes">
-                                                <div className="drop-menu"> 
+                                                <div className="drop-menu">  
                                                     <label>Location</label>
-                                                    <div className="select">
+                                                    <div className="select"> 
                                                         <span>Any Makes</span>
                                                         <i className="fa fa-angle-down"></i>
                                                     </div>
