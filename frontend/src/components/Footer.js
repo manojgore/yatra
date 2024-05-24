@@ -10,7 +10,7 @@ function Footer() {
                         {/* <!-- image-column --> */}
                         <div class="image-column col-lg-4 col-md-6 col-sm-12">
                             <div class="inner-column">
-                                <div class="image-box">
+                                <div class="image-box"> 
                                     <figure class="image"><img src="images/resource/news1-1.png" alt="" /></figure>
                                 </div>
                             </div> 
