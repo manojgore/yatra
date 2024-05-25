@@ -73,7 +73,7 @@ function Banner() {
                                                         <li>Audi</li>
                                                         <li>Honda</li> 
                                                     </ul>
-                                                </div>  
+                                                </div>   
                                             </div>
                                             <div className="form_boxes">
                                                 <div className="drop-menu"> 
