@@ -21,7 +21,7 @@ const db = mysql.createConnection({
   database: 'yatra' 
 });
 
-db.connect((err) => {
+db.connect((err) => { 
   if (err) {
     console.error('Error connecting to MySQL:', err); 
     return;
