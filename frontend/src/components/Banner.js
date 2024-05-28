@@ -61,7 +61,7 @@ function Banner() {
                                     </div>
                                     <div className="form-tab-pane" id="tab-2">
                                         <form>
-                                            <div className="form_boxes">
+                                            <div className="form_boxes"> 
                                                 <div className="drop-menu">
                                                     <label>Any Makes</label>
                                                     <div className="select">
