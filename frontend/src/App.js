@@ -11,7 +11,7 @@ import BrowseByType from './components/BrowseByType';
 // import Dashboard from './components/Admin/Dashboard';
 
 function App() {
-  return (   
+  return (    
     <> 
     {/* <AppContent /> */}
     <Navbar />  
