@@ -20,7 +20,7 @@ const Navbar = () => {
                                             <input type="search" placeholder="Search Cars eg. Audi Q7" className="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
                                         </div> 
-                                        <div className="box-content-search" id="box-content-search">
+                                        <div className="box-content-search" id="box-content-search"> 
                                             <ul className="box-car-search">
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
