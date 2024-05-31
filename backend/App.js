@@ -8,7 +8,7 @@ const nodemailer = require('nodemailer');
 
 // Create an Express app
 const app = express();
-const port = 3000;
+const port = 3000; 
 
 // Middleware to parse JSON bodies
 app.use(bodyParser.json());
@@ -21,7 +21,7 @@ const db = mysql.createConnection({
   database: 'yatra'  
 });
 
-db.connect((err) => { 
+db.connect((err) => {  
   if (err) {
     console.error('Error connecting to MySQL:', err); 
     return; 
