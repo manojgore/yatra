@@ -32,7 +32,7 @@ const Navbar = () => {
                                                     </div> 
                                                 </a></li>  
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
-                                                    <div className="box-img">
+                                                    <div className="box-img"> 
                                                         <img src="images/resource/car-search.jpg" alt="img" /> 
                                                     </div> 
                                                     <div className="info">
