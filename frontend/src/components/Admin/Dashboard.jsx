@@ -12,7 +12,7 @@ function Dashboard() {
                         <div class="header-inner">
                             <div class="inner-container"> 
                                 {/* <!-- Main box --> */}
-                                <div class="c-box"> 
+                                <div class="c-box">  
                                     <div class="logo-inner">   
                                         <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
                                         <div class="btn-box">  
