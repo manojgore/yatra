@@ -64,7 +64,7 @@ function Banner() {
                                     
                                          <div className="form_boxes">  
                                                 <div className="drop-menu"> 
-                                                    <label>Any Makes</label>
+                                                    <label>Any Makes</label>c
                                                     <div className="select">
                                                         <span>Any Makes</span>
                                                         <i className="fa fa-angle-down"></i>
@@ -73,7 +73,7 @@ function Banner() {
                                                     <ul className="dropdown" style={{display: "none"}}> 
                                                         <li>Audi</li>
                                                         <li>Honda</li>  
-                                                    </ul>
+                                                    </ul>c
                                                 </div>    
                                             </div> 
                                             <div className="form_boxes">
