@@ -5,7 +5,7 @@ function Dashboard() {
         <>
             <div class="body">
 
-                <div class="boxcar-wrapper v2"> 
+                <div class="boxcar-wrapper v2">  
 
                     {/* <!-- Main Header--> */}
                     <header class="boxcar-header header-style-ten">
