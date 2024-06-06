@@ -157,7 +157,7 @@ function BrowseByType() {
                         </div>  
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8"> 
-                            <div class="inner-box wow fadeInUp" data-wow-delay="400ms">
+                            <div class="inner-box wow fadeInUp" data-wow-delay="400ms"> 
                                 <div class="image-box">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="35" height="34" viewBox="0 0 35 34" fill="none">
                                         <g clip-path="url(#clip0_130_4553)">
