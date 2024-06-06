@@ -76,7 +76,7 @@ function Banner() {
                                                     </ul>c
                                                 </div>    
                                             </div> 
-                                            <div className="form_boxes">
+                                            <div className="form_boxes"> 
                                                 <div className="drop-menu"> 
                                                     <label>Any Models</label>
                                                     <div className="select">
