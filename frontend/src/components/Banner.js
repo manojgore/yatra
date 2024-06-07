@@ -66,7 +66,7 @@ function Banner() {
                                                 <div className="drop-menu">  
                                                     <label>Any Makes</label>c
                                                     <div className="select">
-                                                        <span>Any Makes</span>
+                                                        <span>Any Makes</span> 
                                                         <i className="fa fa-angle-down"></i> 
                                                     </div>
                                                     <input type="hidden" name="gender" /> 
