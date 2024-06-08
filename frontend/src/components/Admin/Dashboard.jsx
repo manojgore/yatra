@@ -14,7 +14,7 @@ function Dashboard() {
                                 {/* <!-- Main box --> */}
                                 <div class="c-box">    
                                     <div class="logo-inner">    
-                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
+                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div> 
                                         <div class="btn-box">  
                                             <div class="layout-search style1"> 
                                                 <div class="search-box">
