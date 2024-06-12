@@ -2,8 +2,8 @@ import React from 'react'
 
 function Admin-routes() {  
   return ( 
-    <div>Admin-routes</div>         
+    <div>Admin-routes</div>          
   ) 
 }    
 
-export default Admin-routes  
+export default Admin-routes   
