@@ -23,10 +23,10 @@ const db = mysql.createConnection({
 
 db.connect((err) => {  
   if (err) {
-    console.error('Error connecting to MySQL:', err);  
+    console.error('Error connecting to MySQL:', err);   
     return; 
   }
-  console.log('Connected to MySQL');   
+  console.log('Connected to MySQL');    
 });
 
 // Nodemailer transporter for sending emails
@@ -34,7 +34,7 @@ const transporter = nodemailer.createTransport({
   service: 'gmail', 
   auth: {
     user: 'your_email@gmail.com',
-    pass: 'your_email_password'
+    pass: 'your_email_password' 
   } 
 });
 
