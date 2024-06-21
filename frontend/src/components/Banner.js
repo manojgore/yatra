@@ -87,7 +87,7 @@ function Banner() {
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>A3</li>
                                                         <li>Accord</li>
-                                                    </ul>
+                                                    </ul> 
                                                 </div> 
                                             </div> 
                                             <div className="form_boxes">
