@@ -24,7 +24,7 @@ function Dashboard() {
                                                     <input type="search" placeholder="Search Cars eg. Audi Q7" class="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
                                                 </div> 
-                                                <div class="box-content-search" id="box-content-search">
+                                                <div class="box-content-search" id="box-content-search"> 
                                                     <ul class="box-car-search">
                                                         <li><a href="inventory-page-single.html" class="car-search-item">  
                                                             <div class="box-img">
