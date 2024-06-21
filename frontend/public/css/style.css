@@ -23220,7 +23220,7 @@ Chat Widget
 @media (max-width: 991.98px) {
   .footer-bottom .inner-container {
     -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
+    -webkit-box-direction: normal; 
     -ms-flex-direction: column;
     flex-direction: column;
   }
