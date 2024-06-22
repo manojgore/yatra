@@ -71,9 +71,9 @@ function Banner() {
                                                     </div>
                                                     <input type="hidden" name="gender" /> 
                                                     <ul className="dropdown" style={{display: "none"}}>  
-                                                        <li>Audi</li>
-                                                        <li>Honda</li>    
-                                                    </ul>c
+                                                        <li>Audi</li> 
+                                                        <li>Honda</li>
+                                                    </ul>
                                                 </div>    
                                             </div> 
                                             <div className="form_boxes"> 
