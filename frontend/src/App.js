@@ -4,7 +4,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import logo from './logo.svg'; 
 import './App.css';
 import Navbar from './components/Navbar';   
-import Banner from './components/Banner'; 
+import Banner from './components/Banner';  
 import Fleet from './components/Fleet';   
 import Footer from './components/Footer';     
 import BrowseByType from './components/BrowseByType';    
@@ -14,11 +14,11 @@ function App() {
   return (    
     <> 
     {/* <AppContent /> */}
-    <Navbar />  
-    <Banner />     
-    <BrowseByType /> 
-    <Fleet /> 
-    <Footer />  
+    <Navbar />
+    <Banner />
+    <BrowseByType />
+    <Fleet />
+    <Footer />
     </>
   );
 }
