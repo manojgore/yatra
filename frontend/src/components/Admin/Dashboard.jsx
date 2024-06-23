@@ -35,7 +35,7 @@ function Dashboard() {
                                                                 <span class="price">$399</span>  
                                                             </div>
                                                         </a></li>
-                                                        <li><a href="inventory-page-single.html" class="car-search-item">
+                                                        <li><a href="inventory-page-single.html" class="car-search-item"> 
                                                             <div class="box-img">
                                                                 <img src="images/resource/car-search.jpg" alt="img" />
                                                             </div>
