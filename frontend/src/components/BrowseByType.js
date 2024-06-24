@@ -172,7 +172,7 @@ function BrowseByType() {
                                 </div>
                                 <div class="content-box"> 
                                     <h6 class="title"><a href="#">Truck</a></h6> 
-                                </div>
+                                </div> 
                             </div>
                         </div> 
                         {/* <!-- cars-block --> */}
