@@ -86,7 +86,7 @@ function Banner() {
                                                     <input type="hidden" name="gender" /> 
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>A3</li>
-                                                        <li>Accord</li>
+                                                        <li>Accord</li> 
                                                     </ul> 
                                                 </div> 
                                             </div> 
