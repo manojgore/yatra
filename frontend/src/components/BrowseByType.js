@@ -178,7 +178,7 @@ function BrowseByType() {
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8">
                             <div class="inner-box wow fadeInUp" data-wow-delay="500ms">
-                                <div class="image-box">
+                                <div class="image-box"> 
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
                                         <g clip-path="url(#clip0_130_4574)">
                                             <path d="M7.58024 31.8748C9.05004 31.8748 10.2415 30.6833 10.2415 29.2135C10.2415 27.7438 9.05004 26.5522 7.58024 26.5522C6.11045 26.5522 4.91895 27.7438 4.91895 29.2135C4.91895 30.6833 6.11045 31.8748 7.58024 31.8748Z" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
