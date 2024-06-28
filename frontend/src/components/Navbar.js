@@ -82,7 +82,7 @@ const Navbar = () => {
                                         <ul className="navigation" id="navbar">
                                             <li><a href="/">Home</a>
                                             </li>                                            
-                                            <li><a href='blog'><span>Blog </span></a> 
+                                            <li><a href='blog'><span>Blog </span></a>  
                                             </li> 
                                             <li><a href="about.html">About</a> 
                                             </li>                                       
