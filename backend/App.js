@@ -91,7 +91,7 @@ app.post('/api/booking/edit', (req, res) => {
 app.post('/api/booking/delete', (req, res) => {
   // Implement delete booking logic
   // Send email to all parties
-});
+}); 
 
 // Start the server
 app.listen(port, () => { 
