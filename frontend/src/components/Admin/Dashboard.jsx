@@ -30,7 +30,7 @@ function Dashboard() {
                                                             <div class="box-img">
                                                                 <img src="images/resource/car-search.jpg" alt="img" /> 
                                                             </div>
-                                                            <div class="info"> 
+                                                            <div class="info">  
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span>   
                                                             </div>
