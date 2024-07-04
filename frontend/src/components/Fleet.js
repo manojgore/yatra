@@ -23,7 +23,7 @@ function Fleet() {
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="contact-tab" data-bs-toggle="tab" data-bs-target="#contact" type="button" role="tab" aria-controls="contact" aria-selected="false">Browse By Brand</button>
                         </li>
-                    </ul>
+                    </ul> 
                     <div class="tab-content wow fadeInUp" data-wow-delay="200ms" id="myTabContent">
                         <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
                             <div class="shop-cars">
