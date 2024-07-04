@@ -88,7 +88,7 @@ app.post('/api/booking/edit', (req, res) => {
   // Send email to all parties
 });
 
-app.post('/api/booking/delete', (req, res) => {
+app.post('/api/booking/delete', (req, res) => { 
   // Implement delete booking logic
   // Send email to all parties
 }); 
