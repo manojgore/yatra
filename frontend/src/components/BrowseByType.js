@@ -128,7 +128,7 @@ function BrowseByType() {
                                 <div class="content-box"> 
                                     <h6 class="title"><a href="#">Convertible</a></h6>
                                 </div> 
-                            </div> 
+                            </div>  
                         </div> 
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8">
@@ -147,14 +147,14 @@ function BrowseByType() {
                                             <path d="M28.7365 14.3328H22.335V6.86425" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M12.7329 15.3997H11.666" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M33.0037 18.6003H31.4033" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
-                                        </g>   
-                                    </svg>  
-                                </div>  
+                                        </g>
+                                    </svg>
+                                </div>
                                 <div class="content-box">  
-                                    <h6 class="title"><a href="#">Van</a></h6>       
+                                    <h6 class="title"><a href="#">Van</a></h6>
                                 </div> 
                             </div>  
-                        </div>  
+                        </div>
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8"> 
                             <div class="inner-box wow fadeInUp" data-wow-delay="400ms">  
