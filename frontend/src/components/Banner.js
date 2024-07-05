@@ -82,7 +82,7 @@ function Banner() {
                                                     <div className="select">
                                                         <span>Any Models</span>
                                                         <i className="fa fa-angle-down"></i>
-                                                    </div>
+                                                    </div> 
                                                     <input type="hidden" name="gender" /> 
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>A3</li>
