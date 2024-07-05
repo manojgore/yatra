@@ -30,7 +30,7 @@ db.connect((err) => {
 });
 
 // Nodemailer transporter for sending emails
-const transporter = nodemailer.createTransport({ 
+const transporter = nodemailer.createTransport({  
   service: 'gmail', 
   auth: { 
     user: 'your_email@gmail.com',
