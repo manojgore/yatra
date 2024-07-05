@@ -13,7 +13,7 @@ import BrowseByType from './components/BrowseByType';
 function App() {  
   return (    
     <> 
-    {/* <AppContent /> */}
+    {/* <AppContent /> */} 
     <Navbar /> 
     <Banner />   
     <BrowseByType /> 
