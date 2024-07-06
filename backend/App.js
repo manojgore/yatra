@@ -45,7 +45,7 @@ app.post('/api/admin/login', (req, res) => {
 
 app.post('/api/admin/logout', (req, res) => {
   // Implement logout logic
-});
+}); 
 
 app.post('/api/admin/edit-profile', (req, res) => {
   // Implement edit profile logic
