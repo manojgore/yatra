@@ -9,7 +9,7 @@ const Navbar = () => {
                     <div className="header-inner">
                         <div className="boxcar-container"> 
                             {/* <!-- Main box --> */}
-                            <div className="c-box">
+                            <div className="c-box"> 
                                 <div className="logo-inner"> 
                                     <div className="logo"><a href="/"><img src="images/logo.jpg" alt="" title="Boxcar" /></a></div>
                                     <div className="layout-search"> 
