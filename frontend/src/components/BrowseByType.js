@@ -180,7 +180,7 @@ function BrowseByType() {
                             <div class="inner-box wow fadeInUp" data-wow-delay="500ms">
                                 <div class="image-box"> 
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
-                                        <g clip-path="url(#clip0_130_4574)">
+                                        <g clip-path="url(#clip0_130_4574)"> 
                                             <path d="M7.58024 31.8748C9.05004 31.8748 10.2415 30.6833 10.2415 29.2135C10.2415 27.7438 9.05004 26.5522 7.58024 26.5522C6.11045 26.5522 4.91895 27.7438 4.91895 29.2135C4.91895 30.6833 6.11045 31.8748 7.58024 31.8748Z" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M26.3976 31.8748C27.8674 31.8748 29.0589 30.6833 29.0589 29.2135C29.0589 27.7438 27.8674 26.5522 26.3976 26.5522C24.9278 26.5522 23.7363 27.7438 23.7363 29.2135C23.7363 30.6833 24.9278 31.8748 26.3976 31.8748Z" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M4.91884 29.2136H0.996094V21.5615C4.44769 18.0638 9.15682 16.095 14.0708 16.095H14.119C18.3032 16.095 22.33 18.409 25.3796 21.2737L30.5398 22.6368C31.9921 23.0205 33.0039 24.3342 33.0039 25.8364V29.2135H29.0589" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
