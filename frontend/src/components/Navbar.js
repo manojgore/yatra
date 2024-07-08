@@ -35,7 +35,7 @@ const Navbar = () => {
                                                     <div className="box-img"> 
                                                         <img src="images/resource/car-search.jpg" alt="img" />   
                                                     </div> 
-                                                    <div className="info">
+                                                    <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
                                                     </div>  
