@@ -35,7 +35,7 @@ function Banner() {
                                                     <label>Pick-Up Date</label> 
                                                     <div className="select">
                                                         <span>Select Date</span>
-                                                        <i className="fa fa-angle-down"></i>
+                                                        <i className="fa fa-angle-down"></i> 
                                                     </div>
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>                                    
