@@ -53,7 +53,7 @@ function Banner() {
                                                     <ul className="dropdown" style={{display: "none"}}>                                                       
                                                     </ul>
                                                 </div>
-                                            </div>
+                                            </div> 
                                             <div className="form-submit">
                                                 <button type="submit" className="theme-btn"><i className="flaticon-search"></i>Search 9451 Cars</button>
                                             </div>
