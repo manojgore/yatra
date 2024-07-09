@@ -122,7 +122,7 @@ function BrowseByType() {
                                             <path d="M22.8125 15.4062L20.6875 10.0938" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M1.49609 15.4062C2.50593 13.1443 4.75153 11.6875 7.22875 11.6875H10.2292" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                         </g>
-                                    </svg>
+                                    </svg> 
 
                                 </div>
                                 <div class="content-box"> 
