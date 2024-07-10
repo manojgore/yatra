@@ -5,44 +5,44 @@ function Dashboard() {
         <>
             <div class="body">
 
-                <div class="boxcar-wrapper v2">
+                <div class="boxcar-wrapper v2">  
 
                     {/* <!-- Main Header--> */}
-                    <header class="boxcar-header header-style-ten">
+                    <header class="boxcar-header header-style-ten"> 
                         <div class="header-inner">
-                            <div class="inner-container"> 
+                            <div class="inner-container">   
                                 {/* <!-- Main box --> */}
-                                <div class="c-box">
-                                    <div class="logo-inner"> 
-                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div>
-                                        <div class="btn-box"> 
-                                            <div class="layout-search style1">
+                                <div class="c-box">    
+                                    <div class="logo-inner">     
+                                        <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div> 
+                                        <div class="btn-box">  
+                                            <div class="layout-search style1">  
                                                 <div class="search-box">
                                                     <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                         <path d="M7.29301 1.2876C3.9872 1.2876 1.29431 3.98048 1.29431 7.28631C1.29431 10.5921 3.9872 13.2902 7.29301 13.2902C8.70502 13.2902 10.0036 12.7954 11.03 11.9738L13.5287 14.4712C13.6548 14.5921 13.8232 14.6588 13.9979 14.657C14.1725 14.6552 14.3395 14.5851 14.4631 14.4617C14.5867 14.3382 14.6571 14.1713 14.6591 13.9967C14.6611 13.822 14.5947 13.6535 14.474 13.5272L11.9753 11.0285C12.7976 10.0006 13.293 8.69995 13.293 7.28631C13.293 3.98048 10.5988 1.2876 7.29301 1.2876ZM7.29301 2.62095C9.87824 2.62095 11.9584 4.70108 11.9584 7.28631C11.9584 9.87153 9.87824 11.9569 7.29301 11.9569C4.70778 11.9569 2.62764 9.87153 2.62764 7.28631C2.62764 4.70108 4.70778 2.62095 7.29301 2.62095Z" fill="white" />
                                                     </svg>
                                                     <input type="search" placeholder="Search Cars eg. Audi Q7" class="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
-                                                </div>
-                                                <div class="box-content-search" id="box-content-search">
+                                                </div> 
+                                                <div class="box-content-search" id="box-content-search"> 
                                                     <ul class="box-car-search">
-                                                        <li><a href="inventory-page-single.html" class="car-search-item"> 
+                                                        <li><a href="inventory-page-single.html" class="car-search-item">   
                                                             <div class="box-img">
                                                                 <img src="images/resource/car-search.jpg" alt="img" /> 
                                                             </div>
+                                                            <div class="info">  
+                                                                <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
+                                                                <span class="price">$399</span>   
+                                                            </div>
+                                                        </a></li> 
+                                                        <li><a href="inventory-page-single.html" class="car-search-item"> 
+                                                            <div class="box-img">
+                                                                <img src="images/resource/car-search.jpg" alt="img" />
+                                                            </div> 
                                                             <div class="info"> 
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span> 
-                                                            </div>
-                                                        </a></li>
-                                                        <li><a href="inventory-page-single.html" class="car-search-item">
-                                                            <div class="box-img">
-                                                                <img src="images/resource/car-search.jpg" alt="img" />
-                                                            </div>
-                                                            <div class="info">
-                                                                <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
-                                                                <span class="price">$399</span>
-                                                            </div>
+                                                            </div> 
                                                         </a></li>  
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
@@ -50,7 +50,7 @@ function Dashboard() {
                                                             </div>
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
-                                                                <span class="price">$399</span>
+                                                                <span class="price">$399</span>  
                                                             </div>
                                                         </a></li>
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
@@ -60,10 +60,10 @@ function Dashboard() {
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span> 
-                                                            </div>
+                                                            </div> 
                                                         </a></li>
                                                     </ul> 
-                                                    <a href="inventory-page-single.html" class="btn-view-search"> 
+                                                    <a href="inventory-page-single.html" class="btn-view-search">  
                                                         View Details
                                                         <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                             <g clip-path="url(#clip0_3114_6864)">
@@ -92,7 +92,7 @@ function Dashboard() {
                                                         <li><a href="index-3.html">Home 03</a></li>
                                                         <li><a href="index-4.html">Home 04</a></li>
                                                         <li><a href="index-5.html">Home 05</a></li>
-                                                        <li><a href="index-6.html">Home 06</a></li>
+                                                        <li><a href="index-6.html">Home 06</a></li> 
                                                         <li><a href="index-7.html">Home 07</a></li>
                                                         <li><a href="index-8.html">Home 08</a></li>
                                                         <li><a href="index-9.html">Home 09</a></li>
@@ -137,7 +137,7 @@ function Dashboard() {
                                                         <div class="mega-column">
                                                             <h3>Type</h3>
                                                             <ul>
-                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li>
+                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li> 
                                                                 <li><a href="inventory-page-single.html" title="">SUVs</a></li>
                                                                 <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li>
                                                                 <li><a href="inventory-page-single.html" title="">Convertible</a></li>

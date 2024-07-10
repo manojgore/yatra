@@ -9,42 +9,42 @@ const Navbar = () => {
                     <div className="header-inner">
                         <div className="boxcar-container"> 
                             {/* <!-- Main box --> */}
-                            <div className="c-box">
-                                <div className="logo-inner"> 
+                            <div className="c-box"> 
+                                <div className="logo-inner">  
                                     <div className="logo"><a href="/"><img src="images/logo.jpg" alt="" title="Boxcar" /></a></div>
-                                    <div className="layout-search">
+                                    <div className="layout-search"> 
                                         <div className="search-box">
                                             <svg className="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <path d="M7.29301 1.2876C3.9872 1.2876 1.29431 3.98048 1.29431 7.28631C1.29431 10.5921 3.9872 13.2902 7.29301 13.2902C8.70502 13.2902 10.0036 12.7954 11.03 11.9738L13.5287 14.4712C13.6548 14.5921 13.8232 14.6588 13.9979 14.657C14.1725 14.6552 14.3395 14.5851 14.4631 14.4617C14.5867 14.3382 14.6571 14.1713 14.6591 13.9967C14.6611 13.822 14.5947 13.6535 14.474 13.5272L11.9753 11.0285C12.7976 10.0006 13.293 8.69995 13.293 7.28631C13.293 3.98048 10.5988 1.2876 7.29301 1.2876ZM7.29301 2.62095C9.87824 2.62095 11.9584 4.70108 11.9584 7.28631C11.9584 9.87153 9.87824 11.9569 7.29301 11.9569C4.70778 11.9569 2.62764 9.87153 2.62764 7.28631C2.62764 4.70108 4.70778 2.62095 7.29301 2.62095Z" fill="white" />
-                                            </svg>
+                                            </svg> 
                                             <input type="search" placeholder="Search Cars eg. Audi Q7" className="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
-                                        </div> 
-                                        <div className="box-content-search" id="box-content-search">
-                                            <ul className="box-car-search">
+                                        </div>  
+                                        <div className="box-content-search" id="box-content-search">  
+                                        <ul className="box-car-search">
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
-                                                    <div className="box-img">
-                                                        <img src="images/resource/car-search.jpg" alt="img" />
-                                                    </div> 
-                                                    <div className="info">
+                                                    <div className="box-img"> 
+                                                        <img src="images/resource/car-search.jpg" alt="img" />    
+                                                    </div>  
+                                                    <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
+                                                    </div>   
+                                                </a></li>    
+                                                <li><a href="inventory-page-single.html" className="car-search-item"> 
+                                                    <div className="box-img"> 
+                                                        <img src="images/resource/car-search.jpg" alt="img" />   
                                                     </div> 
-                                                </a></li>  
-                                                <li><a href="inventory-page-single.html" className="car-search-item">
-                                                    <div className="box-img">
-                                                        <img src="images/resource/car-search.jpg" alt="img" />
-                                                    </div>
-                                                    <div className="info">
+                                                    <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
-                                                        <span className="price">$399</span>
-                                                    </div>
+                                                        <span className="price">$399</span> 
+                                                    </div>  
                                                 </a></li> 
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
                                                         <img src="images/resource/car-search.jpg" alt="img" />
-                                                    </div> 
-                                                    <div className="info">
+                                                    </div>   
+                                                    <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span>
                                                     </div>
@@ -55,9 +55,9 @@ const Navbar = () => {
                                                     </div>
                                                     <div className="info">
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
-                                                        <span className="price">$399</span>
+                                                        <span className="price">$399</span> 
                                                     </div>
-                                                </a></li>
+                                                </a></li> s
                                             </ul>
                                             <a href="inventory-page-single.html" className="btn-view-search">
                                                 View Details
@@ -73,7 +73,7 @@ const Navbar = () => {
                                                 </svg>
                                             </a>
                                         </div>
-                                    </div>
+                                    </div> 
                                 </div>
 
                                 {/* <!--Nav Box--> */}
@@ -82,13 +82,13 @@ const Navbar = () => {
                                         <ul className="navigation" id="navbar">
                                             <li><a href="/">Home</a>
                                             </li>                                            
-                                            <li><a href='blog'><span>Blog </span></a>
+                                            <li><a href='blog'><span>Blog </span></a>  
                                             </li> 
                                             <li><a href="about.html">About</a> 
                                             </li>                                       
                                             <li className="current-dropdown"><span>Pages <i className="fa-solid fa-angle-down"></i></span>
                                                 <ul className="dropdown">                                                    
-                                                    <li><a href="/dashboard.js" title="">Dashboard</a></li>
+                                                    <li><a href="/dashboard.js" title="">Dashboard</a></li> 
                                                     <li><a href="my-listings.html" title="">My Listings</a></li>
                                                     <li><a href="add-listings.html" title="">Add Listings</a></li>
                                                     <li><a href="favorite.html" title="">Favorites</a></li>
