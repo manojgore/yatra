@@ -119,7 +119,7 @@ function Dashboard() {
                                                                 <li><a href="inventory-page-single.html" title="">Inventory Single v1</a></li>
                                                                 <li><a href="inventory-page-single-v2.html" title="">Inventory Single v2</a></li>
                                                                 <li><a href="inventory-page-single-v3.html" title="">Inventory Single v3</a></li>
-                                                                <li><a href="inventory-page-single-v4.html" title="">Inventory Single v4</a></li>
+                                                                <li><a href="inventory-page-single-v4.html" title="">Inventory Single v4</a></li> 
                                                                 <li><a href="inventory-page-single-v5.html" title="">Inventory Single v5</a></li>
                                                             </ul>
                                                         </div>
