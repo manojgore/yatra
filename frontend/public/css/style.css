@@ -89,7 +89,7 @@ License: copyright commercial
   --theme-light-background-text-color: var(--headings-color);
   --theme-black: #131313;
   --container-width: 1430px;
-  --small-container-width: 1000px;
+  --small-container-width: 1000px; 
   --large-container-width: 1730px;
   --container-pt: 120px;
   --container-pb: 120px;

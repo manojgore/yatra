@@ -47,7 +47,7 @@ function Footer() {
                                 <div class="row">
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp">
-                                            <h4 class="widget-title">Useful Links</h4>
+                                            <h4 class="widget-title">Useful Links</h4> 
                                             <div class="widget-content">
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">About Us</a></li>
