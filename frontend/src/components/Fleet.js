@@ -66,7 +66,7 @@ function Fleet() {
                                     <li><a href="#">Used Peugeot Cars</a></li>
                                     <li><a href="#">Used Porsche Cars</a></li> 
                                     <li><a href="#">Used Renault Cars</a></li>
-                                </ul>
+                                </ul> 
                             </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
