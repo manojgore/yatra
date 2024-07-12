@@ -62,7 +62,7 @@ app.post('/api/corporate/edit', (req, res) => {
 
 app.post('/api/corporate/delete', (req, res) => {
   // Implement delete corporate logic
-});
+}); 
 
 // Customer APIs
 app.post('/api/customer/add', (req, res) => { 
