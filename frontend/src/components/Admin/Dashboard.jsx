@@ -106,7 +106,7 @@ function Dashboard() {
                                                             <ul>
                                                                 <li><a href="inventory-list-01.html" title="">Inventory List v1</a></li>
                                                                 <li><a href="inventory-list-02.html" title="">Inventory List v2</a></li>
-                                                                <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li>
+                                                                <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li> 
                                                                 <li><a href="inventory-map-rows.html" title="">Map - Rows</a></li>
                                                                 <li><a href="inventory-sidebar-rows.html" title="">Sidebar - Rows</a></li>
                                                                 <li><a href="inventory-sidebar-cards.html" title="">Sidebar - Cards</a></li>
