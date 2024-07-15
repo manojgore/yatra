@@ -52,7 +52,7 @@ app.post('/api/admin/edit-profile', (req, res) => {
 });
 
 // Corporate APIs
-app.post('/api/corporate/add', (req, res) => { 
+app.post('/api/corporate/add', (req, res) => {  
   // Implement add corporate logic
 });
 
