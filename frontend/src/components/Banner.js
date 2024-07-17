@@ -50,7 +50,7 @@ function Banner() {
                                                         <i className="fa fa-angle-down"></i>
                                                     </div>
                                                     <input type="hidden" name="gender" />
-                                                    <ul className="dropdown" style={{display: "none"}}>                                                       
+                                                    <ul className="dropdown" style={{display: "none"}}>                                                        
                                                     </ul>
                                                 </div>
                                             </div> 
