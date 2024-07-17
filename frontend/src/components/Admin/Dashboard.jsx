@@ -94,7 +94,7 @@ function Dashboard() {
                                                         <li><a href="index-5.html">Home 05</a></li>
                                                         <li><a href="index-6.html">Home 06</a></li>  
                                                         <li><a href="index-7.html">Home 07</a></li>
-                                                        <li><a href="index-8.html">Home 08</a></li>
+                                                        <li><a href="index-8.html">Home 08</a></li> 
                                                         <li><a href="index-9.html">Home 09</a></li>
                                                         <li><a href="index-10.html">Home 10</a></li>
                                                     </ul>
