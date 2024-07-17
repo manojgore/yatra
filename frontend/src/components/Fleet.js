@@ -73,7 +73,7 @@ function Fleet() {
                             <div class="shop-cars">
                                 <ul class="cars-list">
                                     <li><a href="#">Used Abarth Cars</a></li>
-                                    <li><a href="#">Used Alfa Romeo Cars</a></li>
+                                    <li><a href="#">Used Alfa Romeo Cars</a></li> 
                                     <li><a href="#">Used Audi Cars</a></li> 
                                     <li><a href="#">Used Bentley Cars</a></li> 
                                     <li><a href="#">Used BMW Cars</a></li>
