@@ -57,8 +57,8 @@ const Navbar = () => {
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
                                                     </div>
-                                                </a></li> s
-                                            </ul>
+                                                </a></li>
+                                            </ul> 
                                             <a href="inventory-page-single.html" className="btn-view-search"> 
                                                 View Details
                                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
