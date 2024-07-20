@@ -139,7 +139,7 @@ function Dashboard() {
                                                             <ul>
                                                                 <li><a href="inventory-page-single.html" title="">Sedan</a></li> 
                                                                 <li><a href="inventory-page-single.html" title="">SUVs</a></li>
-                                                                <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li>
+                                                                <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li> 
                                                                 <li><a href="inventory-page-single.html" title="">Convertible</a></li>
                                                                 <li><a href="inventory-page-single.html" title="">Wagon</a></li>
                                                             </ul>
