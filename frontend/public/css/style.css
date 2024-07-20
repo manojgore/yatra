@@ -23233,7 +23233,7 @@ Chat Widget
 }
 
 @media (max-width: 991.98px) {
-  .footer-bottom .copyright-text {
+  .footer-bottom .copyright-text { 
     -webkit-box-ordinal-group: 4;
     -ms-flex-order: 3;
     order: 3;
