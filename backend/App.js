@@ -56,7 +56,7 @@ app.post('/api/corporate/add', (req, res) => {
   // Implement add corporate logic
 });
 
-app.post('/api/corporate/edit', (req, res) => { 
+app.post('/api/corporate/edit', (req, res) => {  
   // Implement edit corporate logic
 });  
 
