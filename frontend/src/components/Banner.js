@@ -77,7 +77,7 @@ function Banner() {
                                                 </div>    
                                             </div> 
                                             <div className="form_boxes"> 
-                                                <div className="drop-menu"> 
+                                                <div className="drop-menu">  
                                                     <label>Any Models</label> 
                                                     <div className="select">
                                                         <span>Any Models</span>
