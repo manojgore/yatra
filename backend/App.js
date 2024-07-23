@@ -60,7 +60,7 @@ app.post('/api/corporate/edit', (req, res) => {
   // Implement edit corporate logic
 });  
 
-app.post('/api/corporate/delete', (req, res) => {
+app.post('/api/corporate/delete', (req, res) => { 
   // Implement delete corporate logic
 }); 
 
