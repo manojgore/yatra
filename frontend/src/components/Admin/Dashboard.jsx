@@ -137,7 +137,7 @@ function Dashboard() {
                                                         <div class="mega-column"> 
                                                             <h3>Type</h3>
                                                             <ul>
-                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li> 
+                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li>  
                                                                 <li><a href="inventory-page-single.html" title="">SUVs</a></li>
                                                                 <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li> 
                                                                 <li><a href="inventory-page-single.html" title="">Convertible</a></li>
