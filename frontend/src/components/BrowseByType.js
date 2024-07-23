@@ -84,7 +84,7 @@ function BrowseByType() {
                                     </svg>
 
                                 </div>
-                                <div class="content-box">
+                                <div class="content-box"> 
                                     <h6 class="title"><a href="#">Coupe</a></h6>
                                 </div>
                             </div>
