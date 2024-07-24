@@ -106,7 +106,7 @@ function BrowseByType() {
                         </div>
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8">
-                            <div class="inner-box wow fadeInUp" data-wow-delay="500ms">
+                            <div class="inner-box wow fadeInUp" data-wow-delay="500ms"> 
                                 <div class="image-box">
                                     <svg width="35" height="34" viewBox="0 0 35 34" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <mask id="mask0_130_4423" style={{maskType:"luminance"}} maskUnits="userSpaceOnUse" x="0" y="0" width="35" height="34">
