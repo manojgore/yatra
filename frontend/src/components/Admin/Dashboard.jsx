@@ -180,7 +180,7 @@ function Dashboard() {
                                                         <li><a href="login.html">Login</a></li>
                                                         <li><a href="faq.html">FAQs</a></li>
                                                         <li><a href="pricing.html">Pricing</a></li>
-                                                        <li><a href="terms.html">Terms</a></li>
+                                                        <li><a href="terms.html">Terms</a></li> 
                                                         <li><a href="team-list.html">Team List</a></li>
                                                         <li><a href="team-single.html">Team Single</a></li>
                                                         <li><a href="dealer.html">Dealer List</a></li>
