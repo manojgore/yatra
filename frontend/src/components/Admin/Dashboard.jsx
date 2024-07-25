@@ -218,7 +218,7 @@ function Dashboard() {
                         {/* <!-- Header Search --> */}
                         <div class="search-popup">
                             <span class="search-back-drop"></span>
-                            <button class="close-search"><span class="fa fa-times"></span></button>
+                            <button class="close-search"><span class="fa fa-times"></span></button> 
 
                             <div class="search-inner">
                                 <form method="post" action="https://creativelayers.net/themes/boxcar-html/index.html">
