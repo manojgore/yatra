@@ -78,7 +78,7 @@ app.post('/api/customer/delete', (req, res) => {
 });
 
 // Booking APIs
-app.post('/api/booking/add', (req, res) => {
+app.post('/api/booking/add', (req, res) => { 
   // Implement add booking logic
   // Send email to all parties
 });
