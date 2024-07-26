@@ -254,7 +254,7 @@ function Dashboard() {
                                 <div class="inner-column">
                                     <div class="list-title">
                                         <h3 class="title">Dashboard</h3>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur.</div>
+                                        <div class="text">Lorem ipsum dolor sit amet, consectetur.</div> 
                                     </div>
                                     <div class="row">
                                         <div class="col-xl-3 col-lg-12">
