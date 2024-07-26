@@ -131,7 +131,7 @@ function BrowseByType() {
                             </div>  
                         </div> 
                         {/* <!-- cars-block --> */}
-                        <div class="cars-block-six home-8">
+                        <div class="cars-block-six home-8"> 
                             <div class="inner-box wow fadeInUp" data-wow-delay="300ms"> 
                                 <div class="image-box">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
