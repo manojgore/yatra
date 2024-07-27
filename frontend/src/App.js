@@ -3,19 +3,19 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 
 import logo from './logo.svg'; 
 import './App.css'; 
-import Navbar from './components/Navbar';   
-import Banner from './components/Banner';   
-import Fleet from './components/Fleet';    
-import Footer from './components/Footer';       
-import BrowseByType from './components/BrowseByType';    
+import Navbar from './components/Navbar';
+import Banner from './components/Banner';
+import Fleet from './components/Fleet';
+import Footer from './components/Footer';        
+import BrowseByType from './components/BrowseByType';     
 // import Dashboard from './components/Admin/Dashboard';
 
 function App() {  
   return (    
     <> 
-    {/* <AppContent /> */} 
+    {/* <AppContent /> */}  
     <Navbar />  
-    <Banner />   
+    <Banner />    
     <BrowseByType /> 
     <Fleet />  
     <Footer />

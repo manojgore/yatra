@@ -92,9 +92,9 @@ function Dashboard() {
                                                         <li><a href="index-3.html">Home 03</a></li>
                                                         <li><a href="index-4.html">Home 04</a></li>
                                                         <li><a href="index-5.html">Home 05</a></li>
-                                                        <li><a href="index-6.html">Home 06</a></li> 
+                                                        <li><a href="index-6.html">Home 06</a></li>  
                                                         <li><a href="index-7.html">Home 07</a></li>
-                                                        <li><a href="index-8.html">Home 08</a></li>
+                                                        <li><a href="index-8.html">Home 08</a></li> 
                                                         <li><a href="index-9.html">Home 09</a></li>
                                                         <li><a href="index-10.html">Home 10</a></li>
                                                     </ul>
@@ -106,7 +106,7 @@ function Dashboard() {
                                                             <ul>
                                                                 <li><a href="inventory-list-01.html" title="">Inventory List v1</a></li>
                                                                 <li><a href="inventory-list-02.html" title="">Inventory List v2</a></li>
-                                                                <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li>
+                                                                <li><a href="inventory-map-cards.html" title="">Map - Cards</a></li> 
                                                                 <li><a href="inventory-map-rows.html" title="">Map - Rows</a></li>
                                                                 <li><a href="inventory-sidebar-rows.html" title="">Sidebar - Rows</a></li>
                                                                 <li><a href="inventory-sidebar-cards.html" title="">Sidebar - Cards</a></li>
@@ -119,7 +119,7 @@ function Dashboard() {
                                                                 <li><a href="inventory-page-single.html" title="">Inventory Single v1</a></li>
                                                                 <li><a href="inventory-page-single-v2.html" title="">Inventory Single v2</a></li>
                                                                 <li><a href="inventory-page-single-v3.html" title="">Inventory Single v3</a></li>
-                                                                <li><a href="inventory-page-single-v4.html" title="">Inventory Single v4</a></li>
+                                                                <li><a href="inventory-page-single-v4.html" title="">Inventory Single v4</a></li>  
                                                                 <li><a href="inventory-page-single-v5.html" title="">Inventory Single v5</a></li>
                                                             </ul>
                                                         </div>
@@ -134,12 +134,12 @@ function Dashboard() {
                                                                 <li><a href="inventory-page-single.html" title="">Mercedes-Benz</a></li>
                                                             </ul>
                                                         </div>
-                                                        <div class="mega-column">
+                                                        <div class="mega-column"> 
                                                             <h3>Type</h3>
                                                             <ul>
-                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li> 
+                                                                <li><a href="inventory-page-single.html" title="">Sedan</a></li>  
                                                                 <li><a href="inventory-page-single.html" title="">SUVs</a></li>
-                                                                <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li>
+                                                                <li><a href="inventory-page-single.html" title="">Sport Coupe</a></li> 
                                                                 <li><a href="inventory-page-single.html" title="">Convertible</a></li>
                                                                 <li><a href="inventory-page-single.html" title="">Wagon</a></li>
                                                             </ul>
@@ -149,8 +149,8 @@ function Dashboard() {
                                                 <li class="current-dropdown"><span>Blog <i class="fa-solid fa-angle-down"></i></span>
                                                     <ul class="dropdown">
                                                         <li><a href="blog-list-01.html">Blog List 01</a></li>
-                                                        <li><a href="blog-list-02.html">Blog List 02</a></li>
-                                                        <li><a href="blog-list-03.html">Blog List 03</a></li>
+                                                        <li><a href="blog-list-02.html">Blog List 02</a></li> 
+                                                        <li><a href="blog-list-03.html">Blog List 03</a></li> 
                                                         <li><a href="blog-single.html">Blog Single</a></li>
                                                     </ul>
                                                 </li>
@@ -168,7 +168,7 @@ function Dashboard() {
                                                             <ul class="dropdown deep subnav-menu">
                                                                 <li><a href="dashboard.html" title="">Dashboard</a></li>
                                                                 <li><a href="my-listings.html" title="">My Listings</a></li>
-                                                                <li><a href="add-listings.html" title="">Add Listings</a></li>
+                                                                <li><a href="add-listings.html" title="">Add Listings</a></li> 
                                                                 <li><a href="favorite.html" title="">Favorites</a></li>
                                                                 <li><a href="saved.html" title="">Saved Search</a></li>
                                                                 <li><a href="messages.html" title="">Messages</a></li>
@@ -180,7 +180,7 @@ function Dashboard() {
                                                         <li><a href="login.html">Login</a></li>
                                                         <li><a href="faq.html">FAQs</a></li>
                                                         <li><a href="pricing.html">Pricing</a></li>
-                                                        <li><a href="terms.html">Terms</a></li>
+                                                        <li><a href="terms.html">Terms</a></li> 
                                                         <li><a href="team-list.html">Team List</a></li>
                                                         <li><a href="team-single.html">Team Single</a></li>
                                                         <li><a href="dealer.html">Dealer List</a></li>
@@ -218,7 +218,7 @@ function Dashboard() {
                         {/* <!-- Header Search --> */}
                         <div class="search-popup">
                             <span class="search-back-drop"></span>
-                            <button class="close-search"><span class="fa fa-times"></span></button>
+                            <button class="close-search"><span class="fa fa-times"></span></button> 
 
                             <div class="search-inner">
                                 <form method="post" action="https://creativelayers.net/themes/boxcar-html/index.html">
@@ -254,7 +254,7 @@ function Dashboard() {
                                 <div class="inner-column">
                                     <div class="list-title">
                                         <h3 class="title">Dashboard</h3>
-                                        <div class="text">Lorem ipsum dolor sit amet, consectetur.</div>
+                                        <div class="text">Lorem ipsum dolor sit amet, consectetur.</div> 
                                     </div>
                                     <div class="row">
                                         <div class="col-xl-3 col-lg-12">

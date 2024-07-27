@@ -20,15 +20,20 @@ const Navbar = () => {
                                             <input type="search" placeholder="Search Cars eg. Audi Q7" className="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
                                         </div>  
-                                        <div className="box-content-search" id="box-content-search">  
+                                        <div className="box-content-search" id="box-content-search">   
                                         <ul className="box-car-search">
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img"> 
                                                         <img src="images/resource/car-search.jpg" alt="img" />    
                                                     </div>  
                                                     <div className="info"> 
+<<<<<<< HEAD
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span>  
+=======
+                                                        <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p> 
+                                                        <span className="price">$399</span> 
+>>>>>>> 7c454e014057a231c053f84bdbad9821e7d9eb29
                                                     </div>   
                                                 </a></li>    
                                                 <li><a href="inventory-page-single.html" className="car-search-item"> 
@@ -42,7 +47,7 @@ const Navbar = () => {
                                                 </a></li> 
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
-                                                        <img src="images/resource/car-search.jpg" alt="img" /> 
+                                                        <img src="images/resource/car-search.jpg" alt="img" />   
                                                     </div>   
                                                     <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
@@ -51,15 +56,15 @@ const Navbar = () => {
                                                 </a></li>
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
-                                                        <img src="images/resource/car-search.jpg" alt="img" /> 
+                                                        <img src="images/resource/car-search.jpg" alt="img" />   
                                                     </div>
-                                                    <div className="info">
+                                                    <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
                                                     </div>
-                                                </a></li> s
-                                            </ul>
-                                            <a href="inventory-page-single.html" className="btn-view-search">
+                                                </a></li>
+                                            </ul> 
+                                            <a href="inventory-page-single.html" className="btn-view-search"> 
                                                 View Details
                                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                     <g clip-path="url(#clip0_3114_6864)">
@@ -67,7 +72,7 @@ const Navbar = () => {
                                                     </g>
                                                     <defs>
                                                         <clipPath id="clip0_3114_6864">
-                                                            <rect width="14" height="14" fill="white" />
+                                                            <rect width="14" height="14" fill="white" /> 
                                                         </clipPath>
                                                     </defs>
                                                 </svg>
@@ -90,7 +95,7 @@ const Navbar = () => {
                                                 <ul className="dropdown">                                                    
                                                     <li><a href="/dashboard.js" title="">Dashboard</a></li> 
                                                     <li><a href="my-listings.html" title="">My Listings</a></li>
-                                                    <li><a href="add-listings.html" title="">Add Listings</a></li>
+                                                    <li><a href="add-listings.html" title="">Add Listings</a></li> 
                                                     <li><a href="favorite.html" title="">Favorites</a></li>
                                                     <li><a href="saved.html" title="">Saved Search</a></li>
                                                     <li><a href="messages.html" title="">Messages</a></li> 

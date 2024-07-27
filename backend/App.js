@@ -43,33 +43,33 @@ app.post('/api/admin/login', (req, res) => {
   // Implement login logic
 }); 
  
-app.post('/api/admin/logout', (req, res) => {
+app.post('/api/admin/logout', (req, res) => {  
   // Implement logout logic
 }); 
 
-app.post('/api/admin/edit-profile', (req, res) => {
+app.post('/api/admin/edit-profile', (req, res) => { 
   // Implement edit profile logic
 });
 
 // Corporate APIs
-app.post('/api/corporate/add', (req, res) => { 
+app.post('/api/corporate/add', (req, res) => {   
   // Implement add corporate logic
 });
 
-app.post('/api/corporate/edit', (req, res) => {
+app.post('/api/corporate/edit', (req, res) => {  
   // Implement edit corporate logic
 });  
 
-app.post('/api/corporate/delete', (req, res) => {
+app.post('/api/corporate/delete', (req, res) => { 
   // Implement delete corporate logic
-});
+}); 
 
 // Customer APIs
 app.post('/api/customer/add', (req, res) => { 
   // Implement add customer logic
 });
 
-app.post('/api/customer/edit', (req, res) => { 
+app.post('/api/customer/edit', (req, res) => {  
   // Implement edit customer logic
 });
 
@@ -78,7 +78,7 @@ app.post('/api/customer/delete', (req, res) => {
 });
 
 // Booking APIs
-app.post('/api/booking/add', (req, res) => {
+app.post('/api/booking/add', (req, res) => { 
   // Implement add booking logic
   // Send email to all parties
 });
@@ -88,7 +88,7 @@ app.post('/api/booking/edit', (req, res) => {
   // Send email to all parties
 });
 
-app.post('/api/booking/delete', (req, res) => { 
+app.post('/api/booking/delete', (req, res) => {  
   // Implement delete booking logic
   // Send email to all parties
 }); 

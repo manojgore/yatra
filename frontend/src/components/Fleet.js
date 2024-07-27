@@ -63,27 +63,27 @@ function Fleet() {
                                     <li><a href="#">Used Mini Cars</a></li>
                                     <li><a href="#">Used Mitsubishi Cars</a></li> 
                                     <li><a href="#">Used Nissan Cars</a></li> 
-                                    <li><a href="#">Used Peugeot Cars</a></li>
+                                    <li><a href="#">Used Peugeot Cars</a></li> 
                                     <li><a href="#">Used Porsche Cars</a></li> 
                                     <li><a href="#">Used Renault Cars</a></li>
-                                </ul>
+                                </ul> 
                             </div>
                         </div>
                         <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
                             <div class="shop-cars">
                                 <ul class="cars-list">
                                     <li><a href="#">Used Abarth Cars</a></li>
-                                    <li><a href="#">Used Alfa Romeo Cars</a></li>
-                                    <li><a href="#">Used Audi Cars</a></li> 
+                                    <li><a href="#">Used Alfa Romeo Cars</a></li> 
+                                    <li><a href="#">Used Audi Cars</a></li>  
                                     <li><a href="#">Used Bentley Cars</a></li> 
                                     <li><a href="#">Used BMW Cars</a></li>
-                                    <li><a href="#">Used Chevrolet Cars</a></li>
+                                    <li><a href="#">Used Chevrolet Cars</a></li> 
                                 </ul>
                                 <ul class="cars-list">
                                     <li><a href="#">Used Chrysler Cars</a></li>
                                     <li><a href="#">Used Citroen Cars</a></li>
                                     <li><a href="#">Used Cupra Cars</a></li>
-                                    <li><a href="#">Used Dacia Cars</a></li>
+                                    <li><a href="#">Used Dacia Cars</a></li>  
                                     <li><a href="#">Used DS Cars</a></li>
                                     <li><a href="#">Used Fiat Cars</a></li>
                                 </ul>
@@ -91,7 +91,7 @@ function Fleet() {
                                     <li><a href="#">Used Ford Cars</a></li>
                                     <li><a href="#">Used Honda Cars</a></li>
                                     <li><a href="#">Used Hyundai Cars</a></li>
-                                    <li><a href="#">Used Infiniti Cars</a></li>
+                                    <li><a href="#">Used Infiniti Cars</a></li> 
                                     <li><a href="#">Used Jaguar Cars</a></li>
                                     <li><a href="#">Used Jeep Cars</a></li>
                                 </ul>
@@ -106,8 +106,8 @@ function Fleet() {
                                 <ul class="cars-list"> 
                                     <li><a href="#">Used Mini Cars</a></li>
                                     <li><a href="#">Used Mitsubishi Cars</a></li>
-                                    <li><a href="#">Used Nissan Cars</a></li>
-                                    <li><a href="#">Used Peugeot Cars</a></li>
+                                    <li><a href="#">Used Nissan Cars</a></li> 
+                                    <li><a href="#">Used Peugeot Cars</a></li> 
                                     <li><a href="#">Used Porsche Cars</a></li>
                                     <li><a href="#">Used Renault Cars</a></li>
                                 </ul>
@@ -135,7 +135,7 @@ function Fleet() {
                                     <li><a href="#">Used Ford Cars</a></li>  
                                     <li><a href="#">Used Honda Cars</a></li> 
                                     <li><a href="#">Used Hyundai Cars</a></li>  
-                                    <li><a href="#">Used Infiniti Cars</a></li>
+                                    <li><a href="#">Used Infiniti Cars</a></li> 
                                     <li><a href="#">Used Jaguar Cars</a></li>  
                                     <li><a href="#">Used Jeep Cars</a></li>  
                                 </ul>
@@ -163,7 +163,7 @@ function Fleet() {
                                     <li><a href="#">Used Abarth Cars</a></li>
                                     <li><a href="#">Used Alfa Romeo Cars</a></li> 
                                     <li><a href="#">Used Audi Cars</a></li>
-                                    <li><a href="#">Used Bentley Cars</a></li>
+                                    <li><a href="#">Used Bentley Cars</a></li> 
                                     <li><a href="#">Used BMW Cars</a></li>
                                     <li><a href="#">Used Chevrolet Cars</a></li>
                                 </ul>
@@ -177,7 +177,7 @@ function Fleet() {
                                 </ul>
                                 <ul class="cars-list">
                                     <li><a href="#">Used Ford Cars</a></li>
-                                    <li><a href="#">Used Honda Cars</a></li>
+                                    <li><a href="#">Used Honda Cars</a></li> 
                                     <li><a href="#">Used Hyundai Cars</a></li>
                                     <li><a href="#">Used Infiniti Cars</a></li>
                                     <li><a href="#">Used Jaguar Cars</a></li>
