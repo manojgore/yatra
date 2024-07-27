@@ -107,7 +107,7 @@ License: copyright commercial
 
 ::selection {
   background: var(--theme-color-dark);
-  color: #fff;
+  color: #fff; 
   text-shadow: none;
 }
 
