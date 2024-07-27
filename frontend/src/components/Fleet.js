@@ -42,7 +42,7 @@ function Fleet() {
                                     <li><a href="#">Used Dacia Cars</a></li>
                                     <li><a href="#">Used DS Cars</a></li>
                                     <li><a href="#">Used Fiat Cars</a></li>
-                                </ul>
+                                </ul> 
                                 <ul class="cars-list">
                                     <li><a href="#">Used Ford Cars</a></li>
                                     <li><a href="#">Used Honda Cars</a></li>
