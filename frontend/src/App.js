@@ -16,7 +16,7 @@ function App() {
     {/* <AppContent /> */}  
     <Navbar />  
     <Banner />    
-    <BrowseByType /> 
+    <BrowseByType />  
     <Fleet />  
     <Footer />
     </>
