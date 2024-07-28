@@ -131,7 +131,7 @@ License: copyright commercial
 body {
   background-color: #fff;
   background-attachment: fixed;
-  -ms-word-wrap: break-word;
+  -ms-word-wrap: break-word; 
   word-wrap: break-word;
   counter-reset: my-sec-counter;
   -webkit-font-smoothing: antialiased;
