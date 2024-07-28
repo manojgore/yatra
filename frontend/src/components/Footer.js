@@ -52,7 +52,7 @@ function Footer() {
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">About Us</a></li>
                                                     <li><a href="#">Careers</a></li>
-                                                    <li><a href="#">Blog</a></li>
+                                                    <li><a href="#">Blog</a></li> 
                                                     <li><a href="#">FAQs</a></li>
                                                     <li><a href="#">Finance</a></li>
                                                     <li><a href="#">Contact Us</a></li>
