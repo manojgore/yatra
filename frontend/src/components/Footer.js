@@ -80,7 +80,7 @@ function Footer() {
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">Aston Martin</a></li>
                                                     <li><a href="#">Audi</a></li>
-                                                    <li><a href="#">Bentley</a></li>
+                                                    <li><a href="#">Bentley</a></li> 
                                                     <li><a href="#">BMW</a></li>
                                                     <li><a href="#">Bugatti</a></li>
                                                     <li><a href="#">Ferrari</a></li>
