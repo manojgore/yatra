@@ -77,7 +77,7 @@ function Footer() {
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="200ms">
                                             <h4 class="widget-title">Our Brands</h4>
                                             <div class="widget-content">
-                                                <ul class="user-links style-two">
+                                                <ul class="user-links style-two"> 
                                                     <li><a href="#">Aston Martin</a></li>
                                                     <li><a href="#">Audi</a></li>
                                                     <li><a href="#">Bentley</a></li> 
