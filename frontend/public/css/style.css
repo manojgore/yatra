@@ -147,7 +147,7 @@ p,
 .text {
   color: var(--text-color);
   font-size: var(--body-font-size);
-  font-family: var(--text-font);
+  font-family: var(--text-font); 
   font-weight: var(--body-font-weight);
   line-height: var(--body-line-height);
 }
