@@ -11,7 +11,7 @@ function Banner() {
                             <div className="banner-v8-form wow fadeInUp" data-wow-delay="200ms">
                                 <ul className="form-tabs-list">
                                     <li className="current" data-tab="tab-1">Daily Rental</li> 
-                                    <li data-tab="tab-2">Montly Subscription</li>
+                                    <li data-tab="tab-2">Montly Subscription</li> 
                                 </ul>
                                 <div className="form-tab-content">
                                     <div className="form-tab-pane current" id="tab-1">
