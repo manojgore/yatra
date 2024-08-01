@@ -11,7 +11,7 @@ app.get("/api",(req,res)=>{
     res.json(   
         {    
             "employees": [ 
-                { "name": "Alice Smith", "email": "alice.smith@example.com" },
+                { "name": "Alice Smith", "email": "alice.smith@example.com" }, 
                 { "name": "Bob Johnson", "email": "bob.johnson@example.com" }, 
                 { "name": "Emily Brown", "email": "emily.brown@example.com" } 
             ]
