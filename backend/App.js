@@ -7,7 +7,7 @@ const mysql = require('mysql');
 const nodemailer = require('nodemailer');
 
 // Create an Express app
-const app = express();
+const app = express(); 
 const port = 3000;  
 
 // Middleware to parse JSON bodies
