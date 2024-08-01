@@ -6,7 +6,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Banner from './components/Banner'; 
 import Fleet from './components/Fleet';  
-import Footer from './components/Footer';         
+import Footer from './components/Footer';          
 import BrowseByType from './components/BrowseByType';     
 // import Dashboard from './components/Admin/Dashboard';
 
