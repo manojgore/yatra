@@ -136,7 +136,7 @@ function BrowseByType() {
                                 <div class="image-box"> 
                                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
                                         <mask id="mask0_130_4528" style={{maskType:"luminance"}} maskUnits="userSpaceOnUse" x="0" y="0" width="34" height="34">
-                                            <path d="M0 3.8147e-06H34V34H0V3.8147e-06Z" fill="white" />
+                                            <path d="M0 3.8147e-06H34V34H0V3.8147e-06Z" fill="white" /> 
                                         </mask> 
                                         <g mask="url(#mask0_130_4528)">
                                             <path d="M29.8033 23.9351H30.3366C31.8036 23.9351 33.0039 22.7347 33.0039 21.2677V17C33.0039 15.533 32.0437 14.3327 30.87 14.3327H28.7362L26.5861 9.31586C26.0083 7.96734 24.3351 6.86427 22.8681 6.86427H3.66343C2.19639 6.86427 0.996094 8.0645 0.996094 9.53141V21.2677C0.996094 22.7347 2.19639 23.9351 3.66343 23.9351H4.19707" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
