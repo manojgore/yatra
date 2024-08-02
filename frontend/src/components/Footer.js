@@ -82,7 +82,7 @@ function Footer() {
                                                     <li><a href="#">Audi</a></li>
                                                     <li><a href="#">Bentley</a></li> 
                                                     <li><a href="#">BMW</a></li>
-                                                    <li><a href="#">Bugatti</a></li>
+                                                    <li><a href="#">Bugatti</a></li> 
                                                     <li><a href="#">Ferrari</a></li>
                                                     <li><a href="#">Jaguar</a></li> 
                                                     <li><a href="#">Lamborghini</a></li>
