@@ -75,7 +75,7 @@ const Navbar = () => {
                                                             <rect width="14" height="14" fill="white" />  
                                                         </clipPath>
                                                     </defs>
-                                                </svg>
+                                                </svg> 
                                             </a>
                                         </div>
                                     </div> 
