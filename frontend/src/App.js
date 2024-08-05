@@ -18,7 +18,7 @@ function App() {
     <Banner />    
     <BrowseByType />  
     <Fleet />  
-    <Footer />
+    <Footer /> 
     </>
   );
 }
