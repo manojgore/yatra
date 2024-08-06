@@ -206,7 +206,7 @@ function BrowseByType() {
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> 
                 </div>
             </section>
             {/* <!-- End brand section --> */}
