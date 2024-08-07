@@ -36,7 +36,7 @@ const transporter = nodemailer.createTransport({
     user: 'your_email@gmail.com', 
     pass: 'your_email_password' 
   } 
-});
+}); 
 
 // Admin APIs
 app.post('/api/admin/login', (req, res) => { 
