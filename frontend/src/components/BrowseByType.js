@@ -194,7 +194,7 @@ function BrowseByType() {
                                             <path d="M25.0938 8.2183L26.4711 9.5957L28.8286 7.23828" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                             <path d="M27.0273 14.0781C30.3281 14.0781 33.0039 11.4023 33.0039 8.10156C33.0039 4.8008 30.3281 2.125 27.0273 2.125C23.7266 2.125 21.0508 4.8008 21.0508 8.10156C21.0508 11.4023 23.7266 14.0781 27.0273 14.0781Z" stroke="#050B20" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" />
                                         </g>
-                                        <defs>
+                                        <defs> 
                                             <clipPath id="clip0_130_4574">
                                                 <rect width="34" height="34" fill="white" />
                                             </clipPath>
