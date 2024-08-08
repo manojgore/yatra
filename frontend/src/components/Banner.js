@@ -34,7 +34,7 @@ function Banner() {
                                                 <div className="drop-menu">
                                                     <label>Pick-Up Date</label>  
                                                     <div className="select"> 
-                                                        <span>Select Date</span>
+                                                        <span>Select Date</span> 
                                                         <i className="fa fa-angle-down"></i> 
                                                     </div>
                                                     <input type="hidden" name="gender" />
