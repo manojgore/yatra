@@ -95,7 +95,7 @@ function Footer() {
                                             <h4 class="widget-title">Vehicles Type</h4>
                                             <div class="widget-content"> 
                                                 <ul class="user-links style-two">
-                                                    <li><a href="#">Pickup</a></li>
+                                                    <li><a href="#">Pickup</a></li> 
                                                     <li><a href="#">Coup</a></li>
                                                     <li><a href="#">Family MPV</a></li>
                                                     <li><a href="#">Sedan</a></li>
