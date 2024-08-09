@@ -114,7 +114,7 @@ function Footer() {
                                 <div class="footer-widget social-widget wow fadeInUp" data-wow-delay="400ms">
                                     <h4 class="widget-title">Office Time</h4>
                                     <div class="widget-content">
-                                        <div class="text"> 
+                                        <div class="text">  
                                             Monday - Friday: 09:00AM - 09:00PM <br />
                                             Saturday: 09:00AM - 07:00PM <br />
                                             Sunday: Closed
