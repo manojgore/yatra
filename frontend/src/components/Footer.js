@@ -99,7 +99,7 @@ function Footer() {
                                                     <li><a href="#">Coup</a></li>
                                                     <li><a href="#">Family MPV</a></li>
                                                     <li><a href="#">Sedan</a></li>
-                                                    <li><a href="#">SUVs</a></li>
+                                                    <li><a href="#">SUVs</a></li> 
                                                     <li><a href="#">Sport Coupe</a></li>
                                                     <li><a href="#">Convertible</a></li>
                                                     <li><a href="#">Wagon</a></li>   
