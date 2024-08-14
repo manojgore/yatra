@@ -43,7 +43,7 @@ function Banner() {
                                                 </div>  
                                             </div>
                                             <div className="form_boxes"> 
-                                                <div className="drop-menu"> 
+                                                <div className="drop-menu">  
                                                     <label>Return Date</label>   
                                                     <div className="select">
                                                         <span>Select Date</span> 
