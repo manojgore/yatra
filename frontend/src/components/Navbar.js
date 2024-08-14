@@ -94,7 +94,7 @@ const Navbar = () => {
                                             <li className="current-dropdown"><span>Pages <i className="fa-solid fa-angle-down"></i></span>
                                                 <ul className="dropdown">                                                    
                                                     <li><a href="/dashboard.js" title="">Dashboard</a></li>  
-                                                    <li><a href="my-listings.html" title="">My Listings</a></li>
+                                                    <li><a href="my-listings.html" title="">My Listings</a></li> 
                                                     <li><a href="add-listings.html" title="">Add Listings</a></li> 
                                                     <li><a href="favorite.html" title="">Favorites</a></li>
                                                     <li><a href="saved.html" title="">Saved Search</a></li>
