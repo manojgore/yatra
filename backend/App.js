@@ -69,7 +69,7 @@ app.post('/api/customer/add', (req, res) => {
   // Implement add customer logic
 });
 
-app.post('/api/customer/edit', (req, res) => {  
+app.post('/api/customer/edit', (req, res) => {   
   // Implement edit customer logic
 });
 
