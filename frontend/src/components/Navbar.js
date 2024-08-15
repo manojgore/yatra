@@ -85,7 +85,7 @@ const Navbar = () => {
                                 <div className="nav-out-bar">
                                     <nav className="nav main-menu">
                                         <ul className="navigation" id="navbar">
-                                            <li><a href="/">Home</a>
+                                            <li><a href="/">Home</a> 
                                             </li>                                            
                                             <li><a href='blog'><span>Blog </span></a>   
                                             </li> 
