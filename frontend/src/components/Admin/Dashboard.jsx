@@ -114,7 +114,7 @@ function Dashboard() {
                                                             </ul>
                                                         </div>
                                                         <div class="mega-column">
-                                                            <h3>Inventory Single</h3>
+                                                            <h3>Inventory Single</h3> 
                                                             <ul>
                                                                 <li><a href="inventory-page-single.html" title="">Inventory Single v1</a></li>
                                                                 <li><a href="inventory-page-single-v2.html" title="">Inventory Single v2</a></li>
