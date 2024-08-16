@@ -256,7 +256,7 @@ p a:not(.button):not(.btn):focus {
 a {
   color: var(--link-color);
   text-decoration: none; 
-  font-weight: var(--body-font-weight);
+  font-weight: var(--body-font-weight); 
   cursor: pointer;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
