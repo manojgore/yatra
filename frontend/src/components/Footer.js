@@ -113,7 +113,7 @@ function Footer() {
                             <div class="footer-column col-lg-3 col-md-6 col-sm-12">
                                 <div class="footer-widget social-widget wow fadeInUp" data-wow-delay="400ms">
                                     <h4 class="widget-title">Office Time</h4> 
-                                    <div class="widget-content">
+                                    <div class="widget-content"> 
                                         <div class="text">  
                                             Monday - Friday: 09:00AM - 09:00PM <br />
                                             Saturday: 09:00AM - 07:00PM <br />
