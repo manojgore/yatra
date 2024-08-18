@@ -54,7 +54,7 @@ function Banner() {
                                                     </ul> 
                                                 </div>
                                             </div> 
-                                            <div className="form-submit">
+                                            <div className="form-submit"> 
                                                 <button type="submit" className="theme-btn"><i className="flaticon-search"></i>Search 9451 Cars</button>
                                             </div>
                                         </form>
