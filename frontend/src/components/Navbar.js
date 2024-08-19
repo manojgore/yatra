@@ -124,7 +124,7 @@ const Navbar = () => {
                                                 </defs> 
                                             </svg>
                                         </div>
-                                        Sign in</a> 
+                                        Sign in</a>  
                                     <div className="btn">
                                         <a href="#" className="header-btn-eight">Add Booking</a>
                                     </div>
