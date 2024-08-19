@@ -169,7 +169,7 @@ function BrowseByType() {
                                             </clipPath>
                                         </defs>  
                                     </svg> 
-                                </div>
+                                </div> 
                                 <div class="content-box"> 
                                     <h6 class="title"><a href="#">Truck</a></h6> 
                                 </div> 
