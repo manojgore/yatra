@@ -26,7 +26,7 @@ function Banner() {
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>
                                                         <li>Audi</li>
-                                                        <li>Honda</li>
+                                                        <li>Honda</li> 
                                                     </ul>
                                                 </div>
                                             </div>
@@ -45,7 +45,7 @@ function Banner() {
                                             <div className="form_boxes"> 
                                                 <div className="drop-menu">  
                                                     <label>Return Date</label>   
-                                                    <div className="select">
+                                                    <div className="select"> 
                                                         <span>Select Date</span> 
                                                         <i className="fa fa-angle-down"></i>
                                                     </div> 
