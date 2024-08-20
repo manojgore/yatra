@@ -54,7 +54,7 @@ app.post('/api/admin/edit-profile', (req, res) => {
 // Corporate APIs
 app.post('/api/corporate/add', (req, res) => {   
   // Implement add corporate logic
-}); 
+});  
 
 app.post('/api/corporate/edit', (req, res) => {  
   // Implement edit corporate logic
