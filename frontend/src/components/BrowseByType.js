@@ -198,7 +198,7 @@ function BrowseByType() {
                                             <clipPath id="clip0_130_4574"> 
                                                 <rect width="34" height="34" fill="white" />  
                                             </clipPath> 
-                                        </defs>  
+                                        </defs>   
                                     </svg>
                                 </div> 
                                 <div class="content-box">
