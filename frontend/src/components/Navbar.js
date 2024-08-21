@@ -122,7 +122,7 @@ const Navbar = () => {
                                                         <rect width="16" height="16" fill="white" /> 
                                                     </clipPath>
                                                 </defs> 
-                                            </svg>
+                                            </svg> 
                                         </div>
                                         Sign in</a>  
                                     <div className="btn">
