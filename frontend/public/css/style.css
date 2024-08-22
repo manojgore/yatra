@@ -258,7 +258,7 @@ a {
   text-decoration: none; 
   font-weight: var(--body-font-weight); 
   cursor: pointer;
-  -webkit-transition: all 0.3s ease;
+  -webkit-transition: all 0.3s ease; 
   transition: all 0.3s ease;
 }
 
