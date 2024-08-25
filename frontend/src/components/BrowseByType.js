@@ -174,7 +174,7 @@ function BrowseByType() {
                                     <h6 class="title"><a href="#">Truck</a></h6> 
                                 </div> 
                             </div>
-                        </div> 
+                        </div>  
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8"> 
                             <div class="inner-box wow fadeInUp" data-wow-delay="500ms"> 
