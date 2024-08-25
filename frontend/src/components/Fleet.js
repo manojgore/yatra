@@ -114,7 +114,7 @@ function Fleet() {
                             </div>
                         </div>
                         <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab"> 
-                            <div class="shop-cars">
+                            <div class="shop-cars"> 
                                 <ul class="cars-list">
                                     <li><a href="#">Used Abarth Cars</a></li>
                                     <li><a href="#">Used Alfa Romeo Cars</a></li>
