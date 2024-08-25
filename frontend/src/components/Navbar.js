@@ -158,7 +158,7 @@ const Navbar = () => {
                     </div> 
                     {/* <!-- End Header Search --> */}
 
-                    <div id="nav-mobile"></div> 
+                    <div id="nav-mobile"></div>  
                 </header>
                 {/* <!-- End header-section --> */}
                 
