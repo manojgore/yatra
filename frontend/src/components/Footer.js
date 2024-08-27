@@ -18,7 +18,7 @@ function Footer() {
                         {/* <!-- content-column --> */} 
                         <div class="form-column col-lg-8 col-md-12 col-sm-12">
                             <div class="inner-column"> 
-                                <div class="boxcar-title light">
+                                <div class="boxcar-title light"> 
                                     <h2>Subscribe To Our Mailing <br />List And Stay Up To Date</h2>
                                     <div class="text">We'll keep you updated with the best new jobs.</div>
                                 </div>
