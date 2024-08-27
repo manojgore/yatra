@@ -128,7 +128,7 @@ const Navbar = () => {
                                     <div className="btn">
                                         <a href="#" className="header-btn-eight">Add Booking</a>
                                     </div>
-                                    <div className="mobile-navigation">
+                                    <div className="mobile-navigation"> 
                                         <a href="#nav-mobile" title="">
                                             <svg width="22" height="11" viewBox="0 0 22 11" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                 <rect width="22" height="2" fill="white" />
