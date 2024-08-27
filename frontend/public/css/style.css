@@ -269,7 +269,7 @@ a:focus {
   outline: none; 
 }
 
-a b,
+a b, 
 a strong {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
