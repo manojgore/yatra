@@ -123,7 +123,7 @@ const Navbar = () => {
                                                     </clipPath>
                                                 </defs> 
                                             </svg> 
-                                        </div>
+                                        </div> 
                                         Sign in</a>  
                                     <div className="btn">
                                         <a href="#" className="header-btn-eight">Add Booking</a>
