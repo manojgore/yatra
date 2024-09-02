@@ -44,7 +44,7 @@ function Footer() {
                         <div class="row">
                             {/* <!-- Footer COlumn --> */}
                             <div class="footer-column-two col-lg-9 col-md-6 col-sm-12">
-                                <div class="row">
+                                <div class="row"> 
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp">
                                             <h4 class="widget-title">Useful Links</h4> 
