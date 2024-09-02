@@ -107,7 +107,7 @@ const Navbar = () => {
                                         </ul>
                                     </nav>
                                     {/* <!-- Main Menu End--> */}
-                                </div>
+                                </div> 
 
                                 <div className="right-box"> 
                                     <a href="login.html" title="" className="box-account"> 
