@@ -155,7 +155,7 @@ const Navbar = () => {
                                 </div> 
                             </form>
                         </div>
-                    </div> 
+                    </div>  
                     {/* <!-- End Header Search --> */}
 
                     <div id="nav-mobile"></div>  
