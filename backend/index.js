@@ -7,7 +7,7 @@ app.get("/",(req,res)=>{
     res.send("hello from backend") 
 })   
 
-app.get("/api",(req,res)=>{   
+app.get("/api",(req,res)=>{    
     res.json(  
         {
             "employees": [ 
