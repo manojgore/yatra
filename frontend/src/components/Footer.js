@@ -29,7 +29,7 @@ function Footer() {
                                                 <button type="button" class="theme-btn btn-style-one hover-light"><span class="btn-title">subscribe</span></button>
                                         </div>
                                     </form>
-                                </div> 
+                                </div>  
                             </div> 
                         </div>  
                     </div>
