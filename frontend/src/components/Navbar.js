@@ -135,7 +135,7 @@ const Navbar = () => {
                                                 <rect y="9" width="22" height="2" fill="white" />
                                             </svg>
                                         </a>
-                                    </div>
+                                    </div> 
                                 </div>
                             </div>
                             {/* <!-- Mobile Menu  --> */}
