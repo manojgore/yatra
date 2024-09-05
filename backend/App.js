@@ -83,7 +83,7 @@ app.post('/api/booking/add', (req, res) => {
   // Send email to all parties
 });
 
-app.post('/api/booking/edit', (req, res) => {
+app.post('/api/booking/edit', (req, res) => { 
   // Implement edit booking logic
   // Send email to all parties
 });
