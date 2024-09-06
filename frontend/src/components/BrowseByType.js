@@ -13,7 +13,7 @@ function BrowseByType() {
                     <div class="right-box">
                         {/* <!-- cars-block --> */}
                         <div class="cars-block-six home-8">
-                            <div class="inner-box wow fadeInUp"> 
+                            <div class="inner-box wow fadeInUp">  
                                 <div class="image-box">
                                     <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <g clip-path="url(#clip0_130_4383)">
