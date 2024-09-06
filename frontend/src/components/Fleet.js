@@ -79,7 +79,7 @@ function Fleet() {
                                     <li><a href="#">Used BMW Cars</a></li>
                                     <li><a href="#">Used Chevrolet Cars</a></li>
                                 </ul>
-                                <ul class="cars-list">
+                                <ul class="cars-list"> 
                                     <li><a href="#">Used Chrysler Cars</a></li>
                                     <li><a href="#">Used Citroen Cars</a></li>
                                     <li><a href="#">Used Cupra Cars</a></li>
