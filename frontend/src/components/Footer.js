@@ -24,7 +24,7 @@ function Footer() {
                                 </div>
                                 <div class="subscribe-form wow fadeInUp" data-wow-delay="100ms">
                                     <form method="post" action="#">
-                                        <div class="form-group"> 
+                                        <div class="form-group">  
                                             <input type="email" name="email" class="email" value="" placeholder="Your email" required="" />
                                                 <button type="button" class="theme-btn btn-style-one hover-light"><span class="btn-title">subscribe</span></button>
                                         </div>
