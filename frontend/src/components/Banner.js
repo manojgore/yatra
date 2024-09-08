@@ -41,7 +41,7 @@ function Banner() {
                                                     <ul className="dropdown" style={{display: "none"}}>                                    
                                                     </ul> 
                                                 </div>    
-                                            </div>
+                                            </div> 
                                             <div className="form_boxes"> 
                                                 <div className="drop-menu">  
                                                     <label>Return Date</label>   
