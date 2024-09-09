@@ -8,7 +8,7 @@ function Dashboard() {
                 <div class="boxcar-wrapper v2">  
 
                     {/* <!-- Main Header--> */}
-                    <header class="boxcar-header header-style-ten"> 
+                    <header class="boxcar-header header-style-ten">  
                         <div class="header-inner">
                             <div class="inner-container">   
                                 {/* <!-- Main box --> */}
