@@ -5,7 +5,7 @@ function BrowseByType() {
     <>
       {/* <!-- brand section --> */}
       <section class="boxcar-brand-section-six">
-        <div class="boxcar-container">
+        <div class="boxcar-container"> 
           <div class="boxcar-title wow fadeInUp">
             <h2>Browse by Type</h2>
             <a href="#" class="btn-title">
