@@ -26,7 +26,7 @@ function BrowseByType() {
                 <defs>
                   <clipPath id="clip0_601_3199">
                     <rect width="14" height="14" fill="white" />
-                  </clipPath>
+                  </clipPath> 
                 </defs>
               </svg>
             </a>
