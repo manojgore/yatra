@@ -9,7 +9,7 @@ function Dashboard() {
 
                     {/* <!-- Main Header--> */}
                     <header class="boxcar-header header-style-ten">  
-                        <div class="header-inner">
+                        <div class="header-inner"> 
                             <div class="inner-container">   
                                 {/* <!-- Main box --> */}
                                 <div class="c-box">    
