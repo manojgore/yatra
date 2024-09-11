@@ -58,7 +58,7 @@ function Footer() {
                                                     <li><a href="#">Contact Us</a></li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> 
                                     </div>
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="100ms">
