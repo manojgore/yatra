@@ -40,7 +40,7 @@ function BrowseByType() {
                     width="32"
                     height="32"
                     viewBox="0 0 32 32"
-                    fill="none"
+                    fill="none" 
                     xmlns="http://www.w3.org/2000/svg"
                   >
                     <g clip-path="url(#clip0_130_4383)">
