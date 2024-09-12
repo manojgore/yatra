@@ -15,7 +15,7 @@ function Banner() {
                                 </ul>
                                 <div className="form-tab-content">
                                     <div className="form-tab-pane current" id="tab-1">
-                                        <form>  
+                                        <form>   
                                             <div className="form_boxes">
                                                 <div className="drop-menu">  
                                                     <label>Location</label>
