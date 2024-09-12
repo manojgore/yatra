@@ -35,7 +35,7 @@ function BrowseByType() {
             {/* <!-- cars-block --> */}
             <div class="cars-block-six home-8">
               <div class="inner-box wow fadeInUp">
-                <div class="image-box">
+                <div class="image-box"> 
                   <svg
                     width="32"
                     height="32"
