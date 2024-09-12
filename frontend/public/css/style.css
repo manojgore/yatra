@@ -326,7 +326,7 @@ iframe {
 
 section>.container,
 section>.container-fluid {
-  padding-top: var(--container-pt);
+  padding-top: var(--container-pt); 
   padding-bottom: var(--container-pt);
 }
 
