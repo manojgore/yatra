@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({  
   host: 'localhost',  
   user: 'root', 
-  password: '',  
+  password: '',   
   database: 'yatra'     
 });
 
@@ -26,7 +26,7 @@ db.connect((err) => {
     console.error('Error connecting to MySQL:', err);   
     return;   
   }
-  console.log('Connected to MySQL');       
+  console.log('Connected to MySQL');        
 });
 
 // Nodemailer transporter for sending emails
