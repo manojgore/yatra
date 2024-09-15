@@ -39,7 +39,7 @@ const transporter = nodemailer.createTransport({
 }); 
 
 // Admin APIs
-app.post('/api/admin/login', (req, res) => { 
+app.post('/api/admin/login', (req, res) => {  
   // Implement login logic
 }); 
  
