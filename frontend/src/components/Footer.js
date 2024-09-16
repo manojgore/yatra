@@ -66,7 +66,7 @@ function Footer() {
                                             <div class="widget-content">
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">Get in Touch</a></li> 
-                                                    <li><a href="#">Help center</a></li>
+                                                    <li><a href="#">Help center</a></li> 
                                                     <li><a href="#">Live chat</a></li>  
                                                     <li><a href="#">How it works</a></li>
                                                 </ul>
