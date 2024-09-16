@@ -92,7 +92,7 @@ function BrowseByType() {
                           fill="white"
                           transform="translate(0.5)"
                         />
-                      </clipPath>
+                      </clipPath> 
                     </defs>
                   </svg>
                 </div>
