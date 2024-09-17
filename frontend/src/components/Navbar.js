@@ -71,7 +71,7 @@ const Navbar = () => {
                                                 </svg> 
                                             </a>
                                         </div>
-                                    </div> 
+                                    </div>  
                                 </div>
 
                                 {/* <!--Nav Box--> */}
