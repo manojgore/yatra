@@ -60,7 +60,7 @@ function Dashboard() {
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span>  
-                                                            </div>  
+                                                            </div>   
                                                         </a></li> 
                                                     </ul> 
                                                     <a href="inventory-page-single.html" class="btn-view-search">  
