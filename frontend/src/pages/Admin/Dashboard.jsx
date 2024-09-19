@@ -8,14 +8,14 @@ function Dashboard() {
                 <div class="boxcar-wrapper v2">  
 
                     {/* <!-- Main Header--> */}
-                    <header class="boxcar-header header-style-ten"> 
-                        <div class="header-inner">
+                    <header class="boxcar-header header-style-ten">  
+                        <div class="header-inner"> 
                             <div class="inner-container">   
                                 {/* <!-- Main box --> */}
                                 <div class="c-box">    
                                     <div class="logo-inner">     
                                         <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="" title="Boxcar" /></a></div> 
-                                        <div class="btn-box">  
+                                        <div class="btn-box">   
                                             <div class="layout-search style1">  
                                                 <div class="search-box"> 
                                                     <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -23,13 +23,13 @@ function Dashboard() {
                                                     </svg>
                                                     <input type="search" placeholder="Search Cars eg. Audi Q7" class="show-search" name="name" tabindex="2" value="" aria-required="true" required="" />
 
-                                                </div>  
+                                                </div>   
                                                 <div class="box-content-search" id="box-content-search"> 
                                                     <ul class="box-car-search">
                                                         <li><a href="inventory-page-single.html" class="car-search-item">   
                                                             <div class="box-img"> 
                                                                 <img src="images/resource/car-search.jpg" alt="img" /> 
-                                                            </div>  
+                                                            </div>   
                                                             <div class="info">  
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span>     
@@ -42,7 +42,7 @@ function Dashboard() {
                                                             <div class="info"> 
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span> 
-                                                            </div> 
+                                                            </div>  
                                                         </a></li>  
                                                         <li><a href="inventory-page-single.html" class="car-search-item">
                                                             <div class="box-img">
@@ -60,7 +60,7 @@ function Dashboard() {
                                                             <div class="info">
                                                                 <p class="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                                 <span class="price">$399</span>  
-                                                            </div> 
+                                                            </div>   
                                                         </a></li> 
                                                     </ul> 
                                                     <a href="inventory-page-single.html" class="btn-view-search">  

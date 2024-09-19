@@ -3,7 +3,7 @@
 // Import necessary modules
 const express = require('express');
 const bodyParser = require('body-parser');
-const mysql = require('mysql');  
+const mysql = require('mysql');   
 const nodemailer = require('nodemailer');
 
 // Create an Express app
@@ -17,7 +17,7 @@ app.use(bodyParser.json());
 const db = mysql.createConnection({  
   host: 'localhost',  
   user: 'root', 
-  password: '', 
+  password: '',   
   database: 'yatra'     
 });
 
@@ -26,7 +26,7 @@ db.connect((err) => {
     console.error('Error connecting to MySQL:', err);   
     return;   
   }
-  console.log('Connected to MySQL');     
+  console.log('Connected to MySQL');        
 });
 
 // Nodemailer transporter for sending emails
@@ -34,12 +34,12 @@ const transporter = nodemailer.createTransport({
   service: 'gmail',  
   auth: {  
     user: 'your_email@gmail.com', 
-    pass: 'your_email_password'  
+    pass: 'your_email_password'   
   } 
 }); 
 
 // Admin APIs
-app.post('/api/admin/login', (req, res) => { 
+app.post('/api/admin/login', (req, res) => {  
   // Implement login logic
 }); 
  

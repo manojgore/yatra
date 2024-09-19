@@ -272,27 +272,27 @@ a:focus {
 a b, 
 a strong {
   -webkit-transition: all 0.3s ease;  
-  transition: all 0.3s ease;  
+  transition: all 0.3s ease;    
 }
 
 a img {  
   border: none;  
-}
+} 
 
 pre,
 ul,
-ol,
+ol, 
 dl,
 dd,
 blockquote, 
 address,
 table,
-fieldset {
+fieldset { 
   margin-bottom: 10px;
 }
 
 ol,
-ul {
+ul { 
   list-style-position: inside;
   margin: 0;
   padding: 0;
@@ -300,11 +300,11 @@ ul {
 
 b,
 strong {
-  color: #333;
+  color: #333; 
   font-weight: var(--body-font-weight-bold);
 }
 
-iframe { 
+iframe {  
   border: none !important;
 }
 
@@ -317,7 +317,7 @@ iframe {
 }
 
 .container .container,
-.container .container-fluid,
+.container .container-fluid, 
 .container-fluid .container,
 .container-fluid .container-fluid {
   padding-left: 0;
@@ -326,7 +326,7 @@ iframe {
 
 section>.container,
 section>.container-fluid {
-  padding-top: var(--container-pt);
+  padding-top: var(--container-pt); 
   padding-bottom: var(--container-pt);
 }
 

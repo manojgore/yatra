@@ -15,7 +15,7 @@ function Banner() {
                                 </ul>
                                 <div className="form-tab-content">
                                     <div className="form-tab-pane current" id="tab-1">
-                                        <form>  
+                                        <form>   
                                             <div className="form_boxes">
                                                 <div className="drop-menu">  
                                                     <label>Location</label>
@@ -40,12 +40,12 @@ function Banner() {
                                                     <input type="hidden" name="gender" />
                                                     <ul className="dropdown" style={{display: "none"}}>                                    
                                                     </ul> 
-                                                </div>   
-                                            </div>
-                                            <div className="form_boxes"> 
+                                                </div>    
+                                            </div> 
+                                            <div className="form_boxes">  
                                                 <div className="drop-menu">  
                                                     <label>Return Date</label>   
-                                                    <div className="select"> 
+                                                    <div className="select">  
                                                         <span>Select Date</span> 
                                                         <i className="fa fa-angle-down"></i>
                                                     </div> 

@@ -13,7 +13,7 @@ function Footer() {
                                 <div class="image-box"> 
                                     <figure class="image"><img src="images/resource/news1-1.png" alt="" /></figure>
                                 </div>
-                            </div> 
+                            </div>  
                         </div> 
                         {/* <!-- content-column --> */} 
                         <div class="form-column col-lg-8 col-md-12 col-sm-12">
@@ -24,13 +24,13 @@ function Footer() {
                                 </div>
                                 <div class="subscribe-form wow fadeInUp" data-wow-delay="100ms">
                                     <form method="post" action="#">
-                                        <div class="form-group"> 
+                                        <div class="form-group">  
                                             <input type="email" name="email" class="email" value="" placeholder="Your email" required="" />
                                                 <button type="button" class="theme-btn btn-style-one hover-light"><span class="btn-title">subscribe</span></button>
                                         </div>
                                     </form>
                                 </div>  
-                            </div> 
+                            </div>  
                         </div>  
                     </div>
                 </div> 
@@ -53,12 +53,12 @@ function Footer() {
                                                     <li><a href="#">About Us</a></li>
                                                     <li><a href="#">Careers</a></li>
                                                     <li><a href="#">Blog</a></li> 
-                                                    <li><a href="#">FAQs</a></li>
+                                                    <li><a href="#">FAQs</a></li> 
                                                     <li><a href="#">Finance</a></li>
                                                     <li><a href="#">Contact Us</a></li>
                                                 </ul>
                                             </div>
-                                        </div>
+                                        </div> 
                                     </div>
                                     <div class="col-lg-3 col-md-6 col-sm-12">
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="100ms">
@@ -66,7 +66,7 @@ function Footer() {
                                             <div class="widget-content">
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">Get in Touch</a></li> 
-                                                    <li><a href="#">Help center</a></li>
+                                                    <li><a href="#">Help center</a></li> 
                                                     <li><a href="#">Live chat</a></li>  
                                                     <li><a href="#">How it works</a></li>
                                                 </ul>
@@ -77,12 +77,12 @@ function Footer() {
                                         <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="200ms">
                                             <h4 class="widget-title">Our Brands</h4>
                                             <div class="widget-content"> 
-                                                <ul class="user-links style-two"> 
+                                                <ul class="user-links style-two">  
                                                     <li><a href="#">Aston Martin</a></li> 
                                                     <li><a href="#">Audi</a></li>
                                                     <li><a href="#">Bentley</a></li> 
                                                     <li><a href="#">BMW</a></li>
-                                                    <li><a href="#">Bugatti</a></li> 
+                                                    <li><a href="#">Bugatti</a></li>  
                                                     <li><a href="#">Ferrari</a></li>
                                                     <li><a href="#">Jaguar</a></li> 
                                                     <li><a href="#">Lamborghini</a></li>

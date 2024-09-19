@@ -6,11 +6,11 @@ const Navbar = () => {
             <div> 
                 {/* <!-- Main Header--> */}
                 <header className="boxcar-header header-style-v1 home-8">
-                    <div className="header-inner">
+                    <div className="header-inner"> 
                         <div className="boxcar-container"> 
                             {/* <!-- Main box --> */}
                             <div className="c-box"> 
-                                <div className="logo-inner">  
+                                <div className="logo-inner">   
                                     <div className="logo"><a href="/"><img src="images/logo.jpg" alt="" title="Boxcar" /></a></div>
                                     <div className="layout-search"> 
                                         <div className="search-box">
@@ -27,18 +27,23 @@ const Navbar = () => {
                                                         <img src="images/resource/car-search.jpg" alt="img" />    
                                                     </div>  
                                                     <div className="info">  
+<<<<<<< HEAD
+                                                        <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
+                                                        <span className="price">$399</span>  
+=======
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p> 
                                                         <span className="price">$399</span> 
+>>>>>>> 7c454e014057a231c053f84bdbad9821e7d9eb29
                                                     </div>   
                                                 </a></li>    
                                                 <li><a href="inventory-page-single.html" className="car-search-item"> 
                                                     <div className="box-img"> 
                                                         <img src="images/resource/car-search.jpg" alt="img" />   
-                                                    </div> 
-                                                    <div className="info"> 
+                                                    </div>  
+                                                    <div className="info">  
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
-                                                    </div>  
+                                                    </div>   
                                                 </a></li> 
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
@@ -52,13 +57,13 @@ const Navbar = () => {
                                                 <li><a href="inventory-page-single.html" className="car-search-item">
                                                     <div className="box-img">
                                                         <img src="images/resource/car-search.jpg" alt="img" />   
-                                                    </div>
+                                                    </div> 
                                                     <div className="info"> 
                                                         <p className="name">Audi, Q5 - 2023 C300e AMG Line Night Ed Premium Plus 5dr 9G-Tronic</p>
                                                         <span className="price">$399</span> 
                                                     </div>
                                                 </a></li>
-                                            </ul> 
+                                            </ul>  
                                             <a href="inventory-page-single.html" className="btn-view-search">  
                                                 View Details
                                                 <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -73,7 +78,7 @@ const Navbar = () => {
                                                 </svg> 
                                             </a>
                                         </div>
-                                    </div> 
+                                    </div>  
                                 </div>
 
                                 {/* <!--Nav Box--> */}
