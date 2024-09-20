@@ -51,7 +51,7 @@ function Footer() {
                                             <div class="widget-content">
                                                 <ul class="user-links style-two">
                                                     <li><a href="#">About Us</a></li>
-                                                    <li><a href="#">Careers</a></li>
+                                                    <li><a href="#">Careers</a></li> 
                                                     <li><a href="#">Blog</a></li> 
                                                     <li><a href="#">FAQs</a></li> 
                                                     <li><a href="#">Finance</a></li>
@@ -107,7 +107,7 @@ function Footer() {
                                             </div>
                                         </div> 
                                     </div>
-                                </div>
+                                </div> 
                             </div> 
                             {/* <!-- footer column --> */}
                             <div class="footer-column col-lg-3 col-md-6 col-sm-12">
