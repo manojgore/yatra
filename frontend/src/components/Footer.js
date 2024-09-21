@@ -90,23 +90,6 @@ function Footer() {
                                             </div> 
                                         </div>  
                                     </div>  
-                                    <div class="col-lg-3 col-md-6 col-sm-12">
-                                        <div class="footer-widget links-widget wow fadeInUp" data-wow-delay="300ms">
-                                            <h4 class="widget-title">Vehicles Type</h4>
-                                            <div class="widget-content"> 
-                                                <ul class="user-links style-two">
-                                                    <li><a href="#">Pickup</a></li> 
-                                                    <li><a href="#">Coup</a></li>
-                                                    <li><a href="#">Family MPV</a></li>
-                                                    <li><a href="#">Sedan</a></li> 
-                                                    <li><a href="#">SUVs</a></li> 
-                                                    <li><a href="#">Sport Coupe</a></li>
-                                                    <li><a href="#">Convertible</a></li>
-                                                    <li><a href="#">Wagon</a></li>   
-                                                </ul>  
-                                            </div>
-                                        </div> 
-                                    </div>
                                 </div> 
                             </div> 
                             {/* <!-- footer column --> */}
