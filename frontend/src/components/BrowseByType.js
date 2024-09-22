@@ -146,7 +146,7 @@ function BrowseByType() {
                     </g>
                     <defs>
                       <clipPath id="clip0_130_4407">
-                        <rect 
+                        <rect  
                           width="34"
                           height="34"
                           fill="white"
