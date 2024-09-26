@@ -60,7 +60,7 @@ function Banner() {
                                         </form>
                                     </div>
                                     <div className="form-tab-pane" id="tab-2">   
-                                        <form>
+                                        <form> 
                                     
                                          <div className="form_boxes">  
                                                 <div className="drop-menu">   
@@ -74,7 +74,7 @@ function Banner() {
                                                         <li>Audi</li> 
                                                         <li>Honda</li>   
                                                     </ul>
-                                                </div>    
+                                                </div>     
                                             </div> 
                                             <div className="form_boxes"> 
                                                 <div className="drop-menu">  
