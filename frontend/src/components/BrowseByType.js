@@ -220,7 +220,7 @@ function BrowseByType() {
                       <path
                         d="M6.875 21.7812H5.18031C3.3143 21.7812 1.77168 20.3934 1.52996 18.5938C1.50738 18.4311 1.49609 18.2657 1.49609 18.097V15.4062H10.6442H14.4453H22.8125L33.5039 16.4688V18.097C33.5039 20.1324 31.8517 21.7812 29.8197 21.7812H28.125"
                         stroke="#050B20"
-                        stroke-width="2"
+                        stroke-width="2" 
                         stroke-miterlimit="10"
                         stroke-linecap="round"
                         stroke-linejoin="round"
