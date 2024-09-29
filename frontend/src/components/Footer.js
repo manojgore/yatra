@@ -105,7 +105,7 @@ function Footer() {
                                         <div class="social-icons">
                                             <h6 class="title">Connect With Us</h6> 
                                             <ul>
-                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li> 
                                                 <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                                 <li><a href="#"><i class="fab fa-instagram"></i></a></li>
                                                 <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
