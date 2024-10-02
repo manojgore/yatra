@@ -270,7 +270,7 @@ function BrowseByType() {
                         stroke="#050B20"
                         stroke-width="2"
                         stroke-miterlimit="10"
-                        stroke-linecap="round"
+                        stroke-linecap="round" 
                         stroke-linejoin="round"
                       />
                       <path
