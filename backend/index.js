@@ -16,9 +16,9 @@ app.get("/api",(req,res)=>{
                 { "name": "Emily Brown", "email": "emily.brown@example.com" }  
             ] 
         }   
-    )  
+    )   
 })  
-
+ 
 app.listen(PORT, ()=>{  
     console.log(`server started at port ${PORT}`)   
 })
