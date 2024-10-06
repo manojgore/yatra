@@ -335,7 +335,7 @@ section>.container-fluid {
   .container,
   .container-lg, 
   .container-md,
-  .container-sm,
+  .container-sm, 
   .container-xl,
   .container-xxl {
     max-width: var(--container-width);
