@@ -70,7 +70,7 @@ function Footer() {
                                                     <li><a href="#">Live chat</a></li>   
                                                     <li><a href="#">How it works</a></li>
                                                 </ul>
-                                            </div>   
+                                            </div>    
                                         </div>
                                     </div> 
                                     <div class="col-lg-3 col-md-6 col-sm-12">
