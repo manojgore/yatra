@@ -65,7 +65,7 @@ function Banner() {
                                          <div className="form_boxes">  
                                                 <div className="drop-menu">   
                                                     <label>Any Makes</label> 
-                                                    <div className="select"> 
+                                                    <div className="select">  
                                                         <span>Any Makes</span>  
                                                         <i className="fa fa-angle-down"></i> 
                                                     </div>
