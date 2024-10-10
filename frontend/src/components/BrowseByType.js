@@ -284,7 +284,7 @@ function BrowseByType() {
                     </g>
                   </svg>
                 </div>
-                <div class="content-box">
+                <div class="content-box"> 
                   <h6 class="title">
                     <a href="#">Convertible</a>
                   </h6>
